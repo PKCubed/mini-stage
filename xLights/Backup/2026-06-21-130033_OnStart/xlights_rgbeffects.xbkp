@@ -25,7 +25,7 @@
     </model>
     <model name="Stage Floor Outline 2" DisplayAs="Single Line" Antialias="1" Controller="" Dir="L" LayoutGroup="Default" LightsPerNode="1" NodesPerString="42" NumStrings="1" PixelSize="5" SourceVersion="2026.10" StartChannel="&gt;Stage Floor Outline 1:4" StartSide="B" StringType="RGB Nodes" Transparency="0" versionNumber="8" WorldPosX="776.738831" WorldPosY="176.723877" WorldPosZ="0.000000" X2="-588.268005" Y2="1.116898" Z2="0.000000">
     </model>
-    <model name="Stage Floor Outline 3" DisplayAs="Single Line" Antialias="1" Controller="" Dir="L" LayoutGroup="Default" LightsPerNode="1" NodesPerString="19" NumStrings="1" PixelSize="5" SourceVersion="2026.10" StartChannel="&gt;Stage Floor Outline 2:4" StartSide="B" StringType="RGB Nodes" Transparency="0" versionNumber="8" WorldPosX="174.631851" WorldPosY="179.877747" WorldPosZ="0.000000" X2="86.328506" Y2="40.163055" Z2="0.000000">
+    <model name="Stage Floor Outline 3" DisplayAs="Single Line" Antialias="1" Controller="" Dir="L" LayoutGroup="Default" LightsPerNode="1" NodesPerString="19" NumStrings="1" PixelSize="5" SourceVersion="2026.10" StartChannel="&gt;Stage Floor Outline 2:1" StartSide="B" StringType="RGB Nodes" Transparency="0" versionNumber="8" WorldPosX="174.631851" WorldPosY="179.877747" WorldPosZ="0.000000" X2="86.328506" Y2="40.163055" Z2="0.000000">
     </model>
     <model name="Vertical Truss Strip 1" DisplayAs="Single Line" Antialias="1" Controller="" Dir="R" LayoutGroup="Default" LightsPerNode="1" NodesPerString="25" NumStrings="1" PixelSize="5" SourceVersion="2026.10" StartChannel="&gt;Vertical Truss Strip 2:1" StartSide="B" StringType="RGB Nodes" Transparency="0" versionNumber="8" WorldPosX="255.198090" WorldPosY="523.694946" WorldPosZ="0.000000" X2="-5.384033" Y2="-273.730072" Z2="0.000000">
     </model>
@@ -36,11 +36,6 @@
     <model name="Vertical Truss Strip 4" DisplayAs="Single Line" Antialias="1" Controller="" Dir="L" LayoutGroup="Default" LightsPerNode="1" NodesPerString="25" NumStrings="1" PixelSize="5" SourceVersion="2026.10" StartChannel="&gt;Stage Floor Outline 3:1" StartSide="B" StringType="RGB Nodes" Transparency="0" versionNumber="8" WorldPosX="710.564758" WorldPosY="521.994751" WorldPosZ="0.000000" X2="5.100464" Y2="-275.430237" Z2="0.000000">
     </model>
     <model name="Video Wall" DisplayAs="Matrix" AlternateNodes="false" Antialias="1" Controller="" Dir="L" LayoutGroup="Default" LowDefinition="100" NodesPerString="32" NoZig="false" NumStrings="32" PixelSize="2" RotateX="0.000000" RotateY="0.000000" RotateZ="0.000000" ScaleX="6.626535" ScaleY="6.817093" ScaleZ="0.015873" SourceVersion="2026.10" StartChannel="!DigOcta A:1" StartSide="T" StrandsPerString="2" StringType="RGB Nodes" Transparency="0" versionNumber="8" Vertical="true" WorldPosX="486.952789" WorldPosY="264.873169" WorldPosZ="0.000000">
-      <subModel name="Bottom Row" bufferstyle="Default" layout="horizontal" subBuffer="-13.39x0.00x100.00x5.67x0.00x0.00" type="subbuffer"/>
-    </model>
-    <model name="Warm Spot Left" DisplayAs="DmxFloodlight" Antialias="1" Controller="" Dir="L" DmxBeamLength="1.000000" DmxBeamWidth="1.000000" DmxBlueChannel="1" DmxChannelCount="1" DmxColorType="0" DmxGreenChannel="1" DmxRedChannel="1" DmxShutterChannel="0" DmxShutterOnValue="0" DmxShutterOpen="1" DmxWhiteChannel="1" LayoutGroup="Default" PixelSize="2" RotateX="0.000000" RotateY="0.000000" RotateZ="0.000000" ScaleX="34.444580" ScaleY="33.748779" ScaleZ="0.000000" SourceVersion="2026.10" StartChannel="&gt;Vertical Truss Strip 1:1" StartSide="B" StringType="Single Color White" Transparency="0" versionNumber="8" WorldPosX="324.027954" WorldPosY="379.778809" WorldPosZ="0.000000">
-    </model>
-    <model name="Warm Spot Right" DisplayAs="DmxFloodlight" Antialias="1" Controller="" Dir="L" DmxBeamLength="1.000000" DmxBeamWidth="1.000000" DmxBlueChannel="1" DmxChannelCount="1" DmxColorType="0" DmxGreenChannel="1" DmxRedChannel="1" DmxShutterChannel="0" DmxShutterOnValue="0" DmxShutterOpen="1" DmxWhiteChannel="1" LayoutGroup="Default" PixelSize="2" RotateX="0.000000" RotateY="0.000000" RotateZ="0.000000" ScaleX="34.444580" ScaleY="33.748779" ScaleZ="0.000000" SourceVersion="2026.10" StartChannel="&gt;Warm Spot Left:1" StartSide="B" StringType="Single Color White" Transparency="0" versionNumber="8" WorldPosX="647.297363" WorldPosY="382.234100" WorldPosZ="0.000000">
     </model>
   </models>
   <modelGroups type="rgb_effects">
@@ -54,8 +49,6 @@
     </modelGroup>
     <modelGroup name="Vertical Truss Strips" DisplayAs="ModelGroup" DefaultCamera="2D" GridSize="400" layout="minimalGrid" LayoutGroup="Default" models="Vertical Truss Strip 1,Vertical Truss Strip 2,Vertical Truss Strip 3,Vertical Truss Strip 4">
     </modelGroup>
-    <modelGroup name="Warm Spots" DisplayAs="ModelGroup" DefaultCamera="2D" GridSize="400" layout="minimalGrid" LayoutGroup="Default" models="Warm Spot Left,Warm Spot Right">
-    </modelGroup>
   </modelGroups>
   <view_objects>
     <view_object name="Gridlines" DisplayAs="Gridlines" LayoutGroup="Default" WorldPosX="0.000000" WorldPosY="0.000000" WorldPosZ="0.000000" ScaleX="1.000000" ScaleY="1.000000" ScaleZ="1.000000" RotateX="90.000000" RotateY="0.000000" RotateZ="0.000000" GridLineSpacing="50" GridWidth="2000" GridHeight="1000" GridColor="#008000" GridAxis="0" PointToFront="0"/>
@@ -67,9 +60,8 @@
   </perspectives>
   <settings>
     <LayoutMode3D value="0"/>
-    <backgroundBrightness value="10"/>
+    <backgroundBrightness value="20"/>
     <backgroundImage value="C:\Users\peter\Pictures\Screenshots\Screenshot 2026-06-14 224841.png"/>
-    <defaultSeqView value=""/>
     <previewHeight value="720"/>
     <previewWidth value="1280"/>
     <xlightsVersion value="2026.10"/>

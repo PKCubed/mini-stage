@@ -38,10 +38,6 @@
     <model name="Video Wall" DisplayAs="Matrix" AlternateNodes="false" Antialias="1" Controller="" Dir="L" LayoutGroup="Default" LowDefinition="100" NodesPerString="32" NoZig="false" NumStrings="32" PixelSize="2" RotateX="0.000000" RotateY="0.000000" RotateZ="0.000000" ScaleX="6.626535" ScaleY="6.817093" ScaleZ="0.015873" SourceVersion="2026.10" StartChannel="!DigOcta A:1" StartSide="T" StrandsPerString="2" StringType="RGB Nodes" Transparency="0" versionNumber="8" Vertical="true" WorldPosX="486.952789" WorldPosY="264.873169" WorldPosZ="0.000000">
       <subModel name="Bottom Row" bufferstyle="Default" layout="horizontal" subBuffer="-13.39x0.00x100.00x5.67x0.00x0.00" type="subbuffer"/>
     </model>
-    <model name="Warm Spot Left" DisplayAs="DmxFloodlight" Antialias="1" Controller="" Dir="L" DmxBeamLength="1.000000" DmxBeamWidth="1.000000" DmxBlueChannel="1" DmxChannelCount="1" DmxColorType="0" DmxGreenChannel="1" DmxRedChannel="1" DmxShutterChannel="0" DmxShutterOnValue="0" DmxShutterOpen="1" DmxWhiteChannel="1" LayoutGroup="Default" PixelSize="2" RotateX="0.000000" RotateY="0.000000" RotateZ="0.000000" ScaleX="34.444580" ScaleY="33.748779" ScaleZ="0.000000" SourceVersion="2026.10" StartChannel="&gt;Vertical Truss Strip 1:1" StartSide="B" StringType="Single Color White" Transparency="0" versionNumber="8" WorldPosX="324.027954" WorldPosY="379.778809" WorldPosZ="0.000000">
-    </model>
-    <model name="Warm Spot Right" DisplayAs="DmxFloodlight" Antialias="1" Controller="" Dir="L" DmxBeamLength="1.000000" DmxBeamWidth="1.000000" DmxBlueChannel="1" DmxChannelCount="1" DmxColorType="0" DmxGreenChannel="1" DmxRedChannel="1" DmxShutterChannel="0" DmxShutterOnValue="0" DmxShutterOpen="1" DmxWhiteChannel="1" LayoutGroup="Default" PixelSize="2" RotateX="0.000000" RotateY="0.000000" RotateZ="0.000000" ScaleX="34.444580" ScaleY="33.748779" ScaleZ="0.000000" SourceVersion="2026.10" StartChannel="&gt;Warm Spot Left:1" StartSide="B" StringType="Single Color White" Transparency="0" versionNumber="8" WorldPosX="647.297363" WorldPosY="382.234100" WorldPosZ="0.000000">
-    </model>
   </models>
   <modelGroups type="rgb_effects">
     <modelGroup name="All" DisplayAs="ModelGroup" DefaultCamera="2D" GridSize="400" layout="minimalGrid" LayoutGroup="Default" models="Floor Posts,Video Wall,Diagonal Bars,Vertical Truss Strips,Stage Floor Outline">
@@ -53,8 +49,6 @@
     <modelGroup name="Stage Floor Outline" DisplayAs="ModelGroup" DefaultCamera="2D" GridSize="400" layout="minimalGrid" LayoutGroup="Default" models="Stage Floor Outline 1,Stage Floor Outline 2,Stage Floor Outline 3">
     </modelGroup>
     <modelGroup name="Vertical Truss Strips" DisplayAs="ModelGroup" DefaultCamera="2D" GridSize="400" layout="minimalGrid" LayoutGroup="Default" models="Vertical Truss Strip 1,Vertical Truss Strip 2,Vertical Truss Strip 3,Vertical Truss Strip 4">
-    </modelGroup>
-    <modelGroup name="Warm Spots" DisplayAs="ModelGroup" DefaultCamera="2D" GridSize="400" layout="minimalGrid" LayoutGroup="Default" models="Warm Spot Left,Warm Spot Right">
     </modelGroup>
   </modelGroups>
   <view_objects>
