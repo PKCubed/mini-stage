@@ -1,0 +1,110 @@
+<?xml version="1.0"?>
+<xsequence BaseChannel="0" ChanCtrlBasic="0" ChanCtrlColor="0" FixedPointTiming="1" ModelBlending="true">
+  <head>
+    <version>2026.11</version>
+    <author></author>
+    <author-email></author-email>
+    <author-website></author-website>
+    <song></song>
+    <artist></artist>
+    <album></album>
+    <MusicURL></MusicURL>
+    <comment></comment>
+    <sequenceTiming>25 ms</sequenceTiming>
+    <sequenceType>Animation</sequenceType>
+    <mediaFile></mediaFile>
+    <sequenceDuration>30.000</sequenceDuration>
+    <imageDir></imageDir>
+  </head>
+  <ColorPalettes>
+    <ColorPalette>C_BUTTON_Palette1=#ffffff,C_BUTTON_Palette2=#ff0000,C_BUTTON_Palette3=#ff8000,C_BUTTON_Palette4=#0022bf,C_BUTTON_Palette5=#ffff00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00ffff,C_BUTTON_Palette8=#ff00ff,C_CHECKBOXBRIGHTNESSLEVEL=0,C_CHECKBOX_Chroma=0,C_CHECKBOX_MusicSparkles=0,C_CHECKBOX_Palette1=0,C_CHECKBOX_Palette2=1,C_CHECKBOX_Palette3=1,C_CHECKBOX_Palette4=1,C_CHECKBOX_Palette5=0,C_CHECKBOX_Palette6=0,C_CHECKBOX_Palette7=0,C_CHECKBOX_Palette8=0,C_SLIDER_SparkleFrequency=0</ColorPalette>
+    <ColorPalette>C_BUTTON_Palette1=#ffffff,C_BUTTON_Palette2=#ff0000,C_BUTTON_Palette3=#00ff00,C_BUTTON_Palette4=#0000ff,C_BUTTON_Palette5=#ffff00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00ffff,C_BUTTON_Palette8=#ff00ff,C_CHECKBOXBRIGHTNESSLEVEL=0,C_CHECKBOX_Chroma=0,C_CHECKBOX_MusicSparkles=0,C_CHECKBOX_Palette1=1,C_CHECKBOX_Palette2=1,C_CHECKBOX_Palette3=1,C_CHECKBOX_Palette4=1,C_CHECKBOX_Palette5=0,C_CHECKBOX_Palette6=0,C_CHECKBOX_Palette7=0,C_CHECKBOX_Palette8=0,C_SLIDER_SparkleFrequency=0</ColorPalette>
+  </ColorPalettes>
+  <EffectDB>
+    <Effect>E_CHOICE_Butterfly_Colors=Palette,E_CHOICE_Butterfly_Direction=Normal,E_SLIDER_Butterfly_Chunks=1,E_SLIDER_Butterfly_Skip=2,E_SLIDER_Butterfly_Speed=10,E_SLIDER_Butterfly_Style=1,T_CHECKBOX_Canvas=0,T_CHECKBOX_LayerMorph=0,T_CHOICE_LayerMethod=Normal,T_SLIDER_EffectLayerMix=0</Effect>
+    <Effect>T_CHECKBOX_Canvas=0,T_CHECKBOX_LayerMorph=0,T_CHOICE_LayerMethod=Normal,T_SLIDER_EffectLayerMix=0</Effect>
+  </EffectDB>
+  <SequenceMedia />
+  <DataLayers>
+    <DataLayer lor_params="0" channel_offset="0" num_channels="0" num_frames="0" data="&lt;rendered: erase-mode>" source="&lt;auto-generated>" name="Nutcracker" />
+  </DataLayers>
+  <DisplayElements>
+    <Element collapsed="false" type="timing" name="New Timing" visible="true" views=",Master View" active="true" />
+    <Element collapsed="false" type="model" name="All" visible="true" />
+    <Element collapsed="false" type="model" name="Floor Posts" visible="true" />
+    <Element collapsed="false" type="model" name="Video Wall" visible="true" />
+    <Element collapsed="false" type="model" name="Floor Post 1" visible="false" />
+    <Element collapsed="false" type="model" name="Floor Post 2" visible="false" />
+    <Element collapsed="false" type="model" name="Floor Post 3" visible="false" />
+    <Element collapsed="false" type="model" name="Floor Post 4" visible="false" />
+    <Element collapsed="false" type="model" name="Floor Post 5" visible="false" />
+    <Element collapsed="false" type="model" name="Floor Post 6" visible="false" />
+    <Element collapsed="false" type="model" name="Diagonal Bars" visible="true" />
+    <Element collapsed="false" type="model" name="Stage Floor Outline" visible="true" />
+    <Element collapsed="false" type="model" name="Vertical Truss Strips" visible="true" />
+  </DisplayElements>
+  <ElementEffects>
+    <Element type="timing" name="New Timing">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="All">
+      <EffectLayer>
+        <Effect ref="0" name="Butterfly" selected="1" startTime="0" endTime="30025" palette="0" />
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Floor Posts">
+      <EffectLayer>
+        <Effect ref="1" name="Off" startTime="-50" endTime="30000" palette="1" />
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Video Wall">
+      <EffectLayer>
+        <Effect ref="1" name="Off" startTime="-50" endTime="30000" palette="1" />
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Floor Post 1">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="Floor Post 2">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="Floor Post 3">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="Floor Post 4">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="Floor Post 5">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="Floor Post 6">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="Diagonal Bars">
+      <EffectLayer>
+        <Effect ref="1" name="Off" startTime="-125" endTime="30000" palette="1" />
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Stage Floor Outline">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="Vertical Truss Strips">
+      <EffectLayer>
+        <Effect ref="1" name="Off" startTime="-50" endTime="30000" palette="1" />
+      </EffectLayer>
+    </Element>
+  </ElementEffects>
+  <lastView>0</lastView>
+  <TimingTags>
+    <Tag number="0" position="-1" />
+    <Tag number="1" position="-1" />
+    <Tag number="2" position="-1" />
+    <Tag number="3" position="-1" />
+    <Tag number="4" position="-1" />
+    <Tag number="5" position="-1" />
+    <Tag number="6" position="-1" />
+    <Tag number="7" position="-1" />
+    <Tag number="8" position="-1" />
+    <Tag number="9" position="-1" />
+  </TimingTags>
+</xsequence>

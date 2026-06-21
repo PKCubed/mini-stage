@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xrgb>
+  <models type="rgb_effects">
+    <model name="Diagonal Bar 1" DisplayAs="Single Line" Antialias="1" Controller="" Dir="R" LayoutGroup="Default" LightsPerNode="1" NodesPerString="7" NumStrings="1" PixelSize="5" SourceVersion="2026.10" StartChannel="&gt;Floor Post 6:1" StartSide="B" StringType="RGB Nodes" Transparency="0" versionNumber="8" WorldPosX="330.311371" WorldPosY="448.780518" WorldPosZ="0.000000" X2="40.841644" Y2="-53.571533" Z2="0.000000">
+    </model>
+    <model name="Diagonal Bar 2" DisplayAs="Single Line" Antialias="1" Controller="" Dir="L" LayoutGroup="Default" LightsPerNode="1" NodesPerString="7" NumStrings="1" PixelSize="5" SourceVersion="2026.10" StartChannel="&gt;Diagonal Bar 1:1" StartSide="B" StringType="RGB Nodes" Transparency="0" versionNumber="8" WorldPosX="397.915863" WorldPosY="449.507782" WorldPosZ="0.000000" X2="40.776184" Y2="-51.823517" Z2="0.000000">
+    </model>
+    <model name="Diagonal Bar 3" DisplayAs="Single Line" Antialias="1" Controller="" Dir="R" LayoutGroup="Default" LightsPerNode="1" NodesPerString="7" NumStrings="1" PixelSize="5" SourceVersion="2026.10" StartChannel="&gt;Diagonal Bar 2:1" StartSide="B" StringType="RGB Nodes" Transparency="0" versionNumber="8" WorldPosX="567.758728" WorldPosY="450.902161" WorldPosZ="0.000000" X2="-39.435608" Y2="-54.789368" Z2="0.000000">
+    </model>
+    <model name="Diagonal Bar 4" DisplayAs="Single Line" Antialias="1" Controller="" Dir="L" LayoutGroup="Default" LightsPerNode="1" NodesPerString="7" NumStrings="1" PixelSize="5" SourceVersion="2026.10" StartChannel="&gt;Diagonal Bar 3:1" StartSide="B" StringType="RGB Nodes" Transparency="0" versionNumber="8" WorldPosX="638.657043" WorldPosY="455.322266" WorldPosZ="0.000000" X2="-40.246338" Y2="-56.006744" Z2="0.000000">
+    </model>
+    <model name="Floor Post 1" DisplayAs="Single Line" Antialias="1" Controller="" Dir="L" LayoutGroup="Default" LightsPerNode="1" NodesPerString="6" NumStrings="1" PixelSize="5" SourceVersion="2026.10" StartChannel="&gt;Video Wall:1" StartSide="B" StringType="RGB Nodes" Transparency="0" versionNumber="8" WorldPosX="228.123505" WorldPosY="208.089096" WorldPosZ="0.000000" X2="2.392776" Y2="63.209488" Z2="0.000000">
+    </model>
+    <model name="Floor Post 2" DisplayAs="Single Line" Antialias="1" Controller="" Dir="L" LayoutGroup="Default" LightsPerNode="1" NodesPerString="6" NumStrings="1" PixelSize="5" SourceVersion="2026.10" StartChannel="&gt;Floor Post 1:1" StartSide="B" StringType="RGB Nodes" Transparency="0" versionNumber="8" WorldPosX="311.434998" WorldPosY="210.900726" WorldPosZ="0.000000" X2="2.392776" Y2="63.209488" Z2="0.000000">
+    </model>
+    <model name="Floor Post 3" DisplayAs="Single Line" Antialias="1" Controller="" Dir="L" LayoutGroup="Default" LightsPerNode="1" NodesPerString="6" NumStrings="1" PixelSize="5" SourceVersion="2026.10" StartChannel="&gt;Floor Post 2:1" StartSide="B" StringType="RGB Nodes" Transparency="0" versionNumber="8" WorldPosX="389.848938" WorldPosY="211.518936" WorldPosZ="0.000000" X2="2.392776" Y2="63.209488" Z2="0.000000">
+    </model>
+    <model name="Floor Post 4" DisplayAs="Single Line" Antialias="1" Controller="" Dir="L" LayoutGroup="Default" LightsPerNode="1" NodesPerString="6" NumStrings="1" PixelSize="5" SourceVersion="2026.10" StartChannel="&gt;Floor Post 3:1" StartSide="B" StringType="RGB Nodes" Transparency="0" versionNumber="8" WorldPosX="578.068848" WorldPosY="216.663254" WorldPosZ="0.000000" X2="-1.395752" Y2="59.022141" Z2="0.000000">
+    </model>
+    <model name="Floor Post 5" DisplayAs="Single Line" Antialias="1" Controller="" Dir="L" LayoutGroup="Default" LightsPerNode="1" NodesPerString="6" NumStrings="1" PixelSize="5" SourceVersion="2026.10" StartChannel="&gt;Floor Post 4:1" StartSide="B" StringType="RGB Nodes" Transparency="0" versionNumber="8" WorldPosX="654.518311" WorldPosY="211.877686" WorldPosZ="0.000000" X2="-1.595154" Y2="60.816711" Z2="0.000000">
+    </model>
+    <model name="Floor Post 6" DisplayAs="Single Line" Antialias="1" Controller="" Dir="L" LayoutGroup="Default" LightsPerNode="1" NodesPerString="6" NumStrings="1" PixelSize="5" SourceVersion="2026.10" StartChannel="&gt;Floor Post 5:1" StartSide="B" StringType="RGB Nodes" Transparency="0" versionNumber="8" WorldPosX="739.462341" WorldPosY="208.886688" WorldPosZ="0.000000" X2="-1.394409" Y2="63.030121" Z2="0.000000">
+    </model>
+    <model name="Stage Floor Outline 1" DisplayAs="Single Line" Antialias="1" Controller="" Dir="L" LayoutGroup="Default" LightsPerNode="1" NodesPerString="19" NumStrings="1" PixelSize="5" SourceVersion="2026.10" StartChannel="&gt;Diagonal Bar 4:1" StartSide="B" StringType="RGB Nodes" Transparency="0" versionNumber="8" WorldPosX="702.309265" WorldPosY="219.681595" WorldPosZ="0.000000" X2="91.667603" Y2="-41.897797" Z2="0.000000">
+    </model>
+    <model name="Stage Floor Outline 2" DisplayAs="Single Line" Antialias="1" Controller="" Dir="L" LayoutGroup="Default" LightsPerNode="1" NodesPerString="42" NumStrings="1" PixelSize="5" SourceVersion="2026.10" StartChannel="&gt;Stage Floor Outline 1:4" StartSide="B" StringType="RGB Nodes" Transparency="0" versionNumber="8" WorldPosX="776.738831" WorldPosY="176.723877" WorldPosZ="0.000000" X2="-588.268005" Y2="1.116898" Z2="0.000000">
+    </model>
+    <model name="Stage Floor Outline 3" DisplayAs="Single Line" Antialias="1" Controller="" Dir="L" LayoutGroup="Default" LightsPerNode="1" NodesPerString="19" NumStrings="1" PixelSize="5" SourceVersion="2026.10" StartChannel="&gt;Stage Floor Outline 2:1" StartSide="B" StringType="RGB Nodes" Transparency="0" versionNumber="8" WorldPosX="174.631851" WorldPosY="179.877747" WorldPosZ="0.000000" X2="86.328506" Y2="40.163055" Z2="0.000000">
+    </model>
+    <model name="Vertical Truss Strip 1" DisplayAs="Single Line" Antialias="1" Controller="" Dir="R" LayoutGroup="Default" LightsPerNode="1" NodesPerString="25" NumStrings="1" PixelSize="5" SourceVersion="2026.10" StartChannel="&gt;Vertical Truss Strip 2:1" StartSide="B" StringType="RGB Nodes" Transparency="0" versionNumber="8" WorldPosX="255.198090" WorldPosY="523.694946" WorldPosZ="0.000000" X2="-5.384033" Y2="-273.730072" Z2="0.000000">
+    </model>
+    <model name="Vertical Truss Strip 2" DisplayAs="Single Line" Antialias="1" Controller="" Dir="L" LayoutGroup="Default" LightsPerNode="1" NodesPerString="25" NumStrings="1" PixelSize="5" SourceVersion="2026.10" StartChannel="&gt;Vertical Truss Strip 3:1" StartSide="B" StringType="RGB Nodes" Transparency="0" versionNumber="8" WorldPosX="264.343414" WorldPosY="523.714966" WorldPosZ="0.000000" X2="-5.384033" Y2="-273.730072" Z2="0.000000">
+    </model>
+    <model name="Vertical Truss Strip 3" DisplayAs="Single Line" Antialias="1" Controller="" Dir="R" LayoutGroup="Default" LightsPerNode="1" NodesPerString="25" NumStrings="1" PixelSize="5" SourceVersion="2026.10" StartChannel="&gt;Vertical Truss Strip 4:1" StartSide="B" StringType="RGB Nodes" Transparency="0" versionNumber="8" WorldPosX="701.497070" WorldPosY="522.278198" WorldPosZ="0.000000" X2="4.895752" Y2="-275.673920" Z2="0.000000">
+    </model>
+    <model name="Vertical Truss Strip 4" DisplayAs="Single Line" Antialias="1" Controller="" Dir="L" LayoutGroup="Default" LightsPerNode="1" NodesPerString="25" NumStrings="1" PixelSize="5" SourceVersion="2026.10" StartChannel="&gt;Stage Floor Outline 3:1" StartSide="B" StringType="RGB Nodes" Transparency="0" versionNumber="8" WorldPosX="710.564758" WorldPosY="521.994751" WorldPosZ="0.000000" X2="5.100464" Y2="-275.430237" Z2="0.000000">
+    </model>
+    <model name="Video Wall" DisplayAs="Matrix" AlternateNodes="false" Antialias="1" Controller="" Dir="L" LayoutGroup="Default" LowDefinition="100" NodesPerString="32" NoZig="false" NumStrings="32" PixelSize="2" RotateX="0.000000" RotateY="0.000000" RotateZ="0.000000" ScaleX="6.626535" ScaleY="6.817093" ScaleZ="0.015873" SourceVersion="2026.10" StartChannel="!DigOcta A:1" StartSide="T" StrandsPerString="2" StringType="RGB Nodes" Transparency="0" versionNumber="8" Vertical="true" WorldPosX="486.952789" WorldPosY="264.873169" WorldPosZ="0.000000">
+    </model>
+  </models>
+  <modelGroups type="rgb_effects">
+    <modelGroup name="All" DisplayAs="ModelGroup" DefaultCamera="2D" GridSize="400" layout="minimalGrid" LayoutGroup="Default" models="Floor Posts,Video Wall,Diagonal Bars,Vertical Truss Strips,Stage Floor Outline">
+    </modelGroup>
+    <modelGroup name="Diagonal Bars" DisplayAs="ModelGroup" DefaultCamera="2D" GridSize="400" layout="minimalGrid" LayoutGroup="Default" models="Diagonal Bar 1,Diagonal Bar 2,Diagonal Bar 3,Diagonal Bar 4">
+    </modelGroup>
+    <modelGroup name="Floor Posts" DisplayAs="ModelGroup" DefaultCamera="2D" GridSize="400" layout="minimalGrid" LayoutGroup="Default" models="Floor Post 1,Floor Post 2,Floor Post 3,Floor Post 4,Floor Post 5,Floor Post 6">
+    </modelGroup>
+    <modelGroup name="Stage Floor Outline" DisplayAs="ModelGroup" DefaultCamera="2D" GridSize="400" layout="minimalGrid" LayoutGroup="Default" models="Stage Floor Outline 1,Stage Floor Outline 2,Stage Floor Outline 3">
+    </modelGroup>
+    <modelGroup name="Vertical Truss Strips" DisplayAs="ModelGroup" DefaultCamera="2D" GridSize="400" layout="minimalGrid" LayoutGroup="Default" models="Vertical Truss Strip 1,Vertical Truss Strip 2,Vertical Truss Strip 3,Vertical Truss Strip 4">
+    </modelGroup>
+  </modelGroups>
+  <view_objects>
+    <view_object name="Gridlines" DisplayAs="Gridlines" LayoutGroup="Default" WorldPosX="0.000000" WorldPosY="0.000000" WorldPosZ="0.000000" ScaleX="1.000000" ScaleY="1.000000" ScaleZ="1.000000" RotateX="90.000000" RotateY="0.000000" RotateZ="0.000000" GridLineSpacing="50" GridWidth="2000" GridHeight="1000" GridColor="#008000" GridAxis="0" PointToFront="0"/>
+  </view_objects>
+  <layoutGroups>
+  </layoutGroups>
+  <perspectives current="Default Perspective">
+    <perspective name="Default Perspective" settings="layout3|name=ModelPreview;caption=Model Preview;state=6293440;dir=4;layer=1;row=0;pos=0;prop=100000;bestw=250;besth=250;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1;floatw_cli=-1;floath_cli=-1|name=HousePreview;caption=House Preview;state=6293440;dir=4;layer=1;row=0;pos=1;prop=100000;bestw=250;besth=250;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1;floatw_cli=-1;floath_cli=-1|name=EffectAssist;caption=Effect Assist;state=2099198;dir=4;layer=1;row=0;pos=2;prop=100000;bestw=250;besth=250;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1;floatw_cli=-1;floath_cli=-1|name=DisplayElements;caption=Display Elements;state=6293503;dir=4;layer=0;row=0;pos=0;prop=100000;bestw=750;besth=1050;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=750;floath=1050;floatw_cli=-1;floath_cli=-1|name=Perspectives;caption=Perspectives;state=2099198;dir=4;layer=1;row=0;pos=0;prop=100000;bestw=161;besth=155;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1;floatw_cli=-1;floath_cli=-1|name=Effect;caption=Effect Settings;state=2099196;dir=4;layer=0;row=1;pos=0;prop=100000;bestw=199;besth=113;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1;floatw_cli=-1;floath_cli=-1|name=SelectEffect;caption=Select Effects;state=2099198;dir=4;layer=1;row=0;pos=0;prop=100000;bestw=615;besth=503;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1;floatw_cli=-1;floath_cli=-1|name=SearchPanel;caption=Search Panel;state=2099198;dir=4;layer=1;row=0;pos=0;prop=100000;bestw=576;besth=376;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1;floatw_cli=-1;floath_cli=-1|name=EffectDropper;caption=Effects;state=2099198;dir=1;layer=0;row=0;pos=0;prop=100000;bestw=1300;besth=780;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1;floatw_cli=-1;floath_cli=-1|name=ValueCurveDropper;caption=Value Curves;state=2099198;dir=1;layer=0;row=0;pos=0;prop=100000;bestw=50;besth=50;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1;floatw_cli=-1;floath_cli=-1|name=ColourDropper;caption=Colours;state=2099198;dir=1;layer=0;row=0;pos=0;prop=100000;bestw=20;besth=20;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1;floatw_cli=-1;floath_cli=-1|name=Jukebox;caption=Jukebox;state=2099198;dir=1;layer=0;row=0;pos=0;prop=100000;bestw=100;besth=200;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1;floatw_cli=-1;floath_cli=-1|name=FindData;caption=Find Data;state=2099198;dir=1;layer=0;row=0;pos=0;prop=100000;bestw=616;besth=214;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1;floatw_cli=-1;floath_cli=-1|name=EffectPresets;caption=Effect Presets;state=2099199;dir=4;layer=0;row=0;pos=0;prop=100000;bestw=700;besth=600;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1;floatw_cli=-1;floath_cli=-1|name=Color;caption=Color;state=2099196;dir=1;layer=0;row=0;pos=0;prop=100000;bestw=50;besth=50;minw=50;minh=50;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1;floatw_cli=-1;floath_cli=-1|name=LayerTiming;caption=Layer Blending;state=2099196;dir=1;layer=0;row=0;pos=1;prop=100000;bestw=50;besth=50;minw=50;minh=50;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1;floatw_cli=-1;floath_cli=-1|name=LayerSettings;caption=Layer Settings;state=2099196;dir=1;layer=0;row=0;pos=2;prop=100000;bestw=262;besth=74;minw=50;minh=50;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1;floatw_cli=-1;floath_cli=-1|name=SequenceVideo;caption=Sequence Video;state=2099199;dir=4;layer=0;row=0;pos=0;prop=100000;bestw=320;besth=225;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1;floatw_cli=-1;floath_cli=-1|name=Main Sequencer;caption=Main Sequencer;state=768;dir=5;layer=0;row=0;pos=0;prop=100000;bestw=301;besth=234;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1;floatw_cli=-1;floath_cli=-1|dock_size(4,1,0)=252|dock_size(4,0,1)=201|dock_size(1,0,0)=97|dock_size(5,0,0)=303|" version="2.0"/>
+  </perspectives>
+  <settings>
+    <LayoutMode3D value="0"/>
+    <backgroundBrightness value="20"/>
+    <backgroundImage value="C:\Users\peter\Pictures\Screenshots\Screenshot 2026-06-14 224841.png"/>
+    <defaultSeqView value=""/>
+    <previewHeight value="720"/>
+    <previewWidth value="1280"/>
+    <xlightsVersion value="2026.10"/>
+  </settings>
+  <views>
+  </views>
+  <colors>
+    <DisabledEffect Red="200" Green="200" Blue="0"/>
+    <EffectDefault Red="192" Green="192" Blue="192"/>
+    <EffectSelected Red="204" Green="102" Blue="255"/>
+    <EffectSelectedDisabled Red="200" Green="200" Blue="64"/>
+    <EffectSelectedFixed Red="255" Green="128" Blue="0"/>
+    <EffectSelectedLocked Red="200" Green="128" Blue="152"/>
+    <GridDashes Red="255" Green="255" Blue="0"/>
+    <Gridlines Red="40" Green="40" Blue="40"/>
+    <LabelOutline Red="103" Green="103" Blue="103"/>
+    <Labels Red="255" Green="255" Blue="204"/>
+    <LayoutDashes Red="255" Green="255" Blue="0"/>
+    <LockedEffect Red="200" Green="0" Blue="0"/>
+    <ModelDefault Red="211" Green="211" Blue="211"/>
+    <ModelOverlap Red="255" Green="0" Blue="0"/>
+    <ModelSelected Red="255" Green="255" Blue="0"/>
+    <Phonemes Red="255" Green="181" Blue="218"/>
+    <Phrases Red="153" Green="255" Blue="153"/>
+    <ReferenceEffect Red="255" Green="0" Blue="255"/>
+    <ReferenceEffectDisabled Red="255" Green="255" Blue="127"/>
+    <ReferenceEffectLocked Red="255" Green="0" Blue="127"/>
+    <RowHeaderSelected Red="130" Green="178" Blue="207"/>
+    <TextHighlighted Red="0" Green="0" Blue="0"/>
+    <TextUnselected Red="0" Green="0" Blue="0"/>
+    <Timing1 Red="0" Green="255" Blue="255"/>
+    <Timing2 Red="255" Green="0" Blue="0"/>
+    <Timing3 Red="0" Green="255" Blue="0"/>
+    <Timing4 Red="0" Green="0" Blue="255"/>
+    <Timing5 Red="255" Green="255" Blue="0"/>
+    <TimingDefault Red="255" Green="255" Blue="255"/>
+    <Waveform Red="130" Green="178" Blue="207"/>
+    <WaveformMouseMarker Red="0" Green="0" Blue="255"/>
+    <WaveformSelected Red="0" Green="0" Blue="200"/>
+    <WaveformSelectedEffect Red="255" Green="128" Blue="0"/>
+    <Words Red="255" Green="218" Blue="145"/>
+  </colors>
+  <Viewpoints>
+  </Viewpoints>
+</xrgb>

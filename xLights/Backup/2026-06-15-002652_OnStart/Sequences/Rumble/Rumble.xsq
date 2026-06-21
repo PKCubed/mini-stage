@@ -1,0 +1,95 @@
+<?xml version="1.0"?>
+<xsequence BaseChannel="0" ChanCtrlBasic="0" ChanCtrlColor="0" FixedPointTiming="1" ModelBlending="true">
+  <head>
+    <version>2026.10</version>
+    <author></author>
+    <author-email></author-email>
+    <author-website></author-website>
+    <song>Rumble</song>
+    <artist>Skrillex, Fred again.., Flowdan</artist>
+    <album>Quest For Fire</album>
+    <MusicURL></MusicURL>
+    <comment></comment>
+    <sequenceTiming>25 ms</sequenceTiming>
+    <sequenceType>Media</sequenceType>
+    <mediaFile>C:\Users\peter\Desktop\Mini Stage\Sequences\Rumble\Rumble.mp3</mediaFile>
+    <sequenceDuration>146.571</sequenceDuration>
+    <imageDir></imageDir>
+  </head>
+  <ColorPalettes>
+    <ColorPalette>C_BUTTON_Palette1=#ffffff,C_BUTTON_Palette2=#ff0000,C_BUTTON_Palette3=#ff8000,C_BUTTON_Palette4=#0000ff,C_BUTTON_Palette5=#ffff00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00ffff,C_BUTTON_Palette8=#ff00ff,C_CHECKBOXBRIGHTNESSLEVEL=0,C_CHECKBOX_Chroma=0,C_CHECKBOX_MusicSparkles=0,C_CHECKBOX_Palette1=0,C_CHECKBOX_Palette2=0,C_CHECKBOX_Palette3=0,C_CHECKBOX_Palette4=0,C_CHECKBOX_Palette5=0,C_CHECKBOX_Palette6=0,C_CHECKBOX_Palette7=0,C_CHECKBOX_Palette8=0,C_SLIDER_SparkleFrequency=0</ColorPalette>
+  </ColorPalettes>
+  <EffectDB>
+    <Effect>T_CHECKBOX_Canvas=0,T_CHECKBOX_LayerMorph=0,T_CHOICE_LayerMethod=Normal,T_SLIDER_EffectLayerMix=0</Effect>
+  </EffectDB>
+  <SequenceMedia />
+  <DataLayers>
+    <DataLayer lor_params="0" channel_offset="0" num_channels="0" num_frames="0" data="&lt;rendered: erase-mode>" source="&lt;auto-generated>" name="Nutcracker" />
+  </DataLayers>
+  <DisplayElements>
+    <Element collapsed="false" type="timing" name="New Timing" visible="true" views=",Master View" active="true" />
+    <Element collapsed="false" type="model" name="All" visible="true" />
+    <Element collapsed="false" type="model" name="Floor Posts" visible="false" />
+    <Element collapsed="false" type="model" name="Video Wall" visible="false" />
+    <Element collapsed="false" type="model" name="Diagonal Bars" visible="false" />
+    <Element collapsed="false" type="model" name="Vertical Truss Strips" visible="false" />
+    <Element collapsed="false" type="model" name="Stage Floor Outline" visible="false" />
+    <Element collapsed="false" type="model" name="Diagonal Bar 1" visible="false" />
+    <Element collapsed="false" type="model" name="Diagonal Bar 2" visible="false" />
+    <Element collapsed="false" type="model" name="Diagonal Bar 3" visible="false" />
+    <Element collapsed="false" type="model" name="Diagonal Bar 4" visible="false" />
+  </DisplayElements>
+  <ElementEffects>
+    <Element type="timing" name="New Timing">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="All">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="Floor Posts">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="Video Wall">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="Diagonal Bars">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="Vertical Truss Strips">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="Stage Floor Outline">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="Diagonal Bar 1">
+      <EffectLayer />
+      <Strand index="0">
+        <Node index="0">
+          <Effect ref="0" name="On" selected="1" startTime="0" endTime="1000" palette="0" />
+        </Node>
+      </Strand>
+    </Element>
+    <Element type="model" name="Diagonal Bar 2">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="Diagonal Bar 3">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="Diagonal Bar 4">
+      <EffectLayer />
+    </Element>
+  </ElementEffects>
+  <lastView>0</lastView>
+  <TimingTags>
+    <Tag number="0" position="-1" />
+    <Tag number="1" position="-1" />
+    <Tag number="2" position="-1" />
+    <Tag number="3" position="-1" />
+    <Tag number="4" position="-1" />
+    <Tag number="5" position="-1" />
+    <Tag number="6" position="-1" />
+    <Tag number="7" position="-1" />
+    <Tag number="8" position="-1" />
+    <Tag number="9" position="-1" />
+  </TimingTags>
+</xsequence>
