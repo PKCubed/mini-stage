@@ -105,11 +105,6 @@
     <Element collapsed="false" type="model" name="Warm Spots" visible="true" />
     <Element collapsed="false" type="model" name="Warm Spot Left" visible="false" />
     <Element collapsed="false" type="model" name="Warm Spot Right" visible="false" />
-    <Element collapsed="false" type="model" name="Beams" visible="true" />
-    <Element collapsed="false" type="model" name="Beam 1" visible="false" />
-    <Element collapsed="false" type="model" name="Beam 2" visible="false" />
-    <Element collapsed="false" type="model" name="Beam 3" visible="false" />
-    <Element collapsed="false" type="model" name="Beam 4" visible="false" />
   </DisplayElements>
   <ElementEffects>
     <Element type="timing" name="New Timing">
@@ -1889,8 +1884,8 @@
         <Effect ref="31" name="On" startTime="6250" endTime="7500" palette="14" />
         <Effect ref="32" name="On" id="1" startTime="13125" endTime="15000" palette="14" />
         <Effect ref="33" name="On" id="2" startTime="19950" endTime="20575" palette="14" />
-        <Effect ref="32" name="On" id="3" startTime="47450" endTime="49325" palette="14" />
-        <Effect ref="32" name="On" id="4" startTime="54150" endTime="56775" palette="14" />
+        <Effect ref="32" name="On" id="10" startTime="47450" endTime="49325" palette="14" />
+        <Effect ref="32" name="On" id="11" startTime="54150" endTime="56775" palette="14" />
       </EffectLayer>
     </Element>
     <Element type="model" name="Warm Spot Left">
@@ -2024,28 +2019,6 @@
         <Effect ref="35" name="On" id="54" startTime="58425" endTime="58625" palette="14" />
         <Effect ref="35" name="On" id="55" startTime="58650" endTime="58850" palette="14" />
       </EffectLayer>
-    </Element>
-    <Element type="model" name="Beams">
-      <EffectLayer />
-    </Element>
-    <Element type="model" name="Beam 1">
-      <EffectLayer>
-        <Effect ref="4" name="On" startTime="20575" endTime="20725" palette="14" />
-        <Effect ref="4" name="On" selected="1" id="1" startTime="20775" endTime="20850" palette="14" />
-      </EffectLayer>
-    </Element>
-    <Element type="model" name="Beam 2">
-      <EffectLayer>
-        <Effect ref="4" name="On" startTime="20600" endTime="20725" palette="14" />
-      </EffectLayer>
-    </Element>
-    <Element type="model" name="Beam 3">
-      <EffectLayer>
-        <Effect ref="4" name="On" startTime="20625" endTime="20725" palette="14" />
-      </EffectLayer>
-    </Element>
-    <Element type="model" name="Beam 4">
-      <EffectLayer />
     </Element>
   </ElementEffects>
   <lastView>0</lastView>

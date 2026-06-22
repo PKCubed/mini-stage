@@ -2031,7 +2031,6 @@
     <Element type="model" name="Beam 1">
       <EffectLayer>
         <Effect ref="4" name="On" startTime="20575" endTime="20725" palette="14" />
-        <Effect ref="4" name="On" selected="1" id="1" startTime="20775" endTime="20850" palette="14" />
       </EffectLayer>
     </Element>
     <Element type="model" name="Beam 2">
@@ -2045,7 +2044,9 @@
       </EffectLayer>
     </Element>
     <Element type="model" name="Beam 4">
-      <EffectLayer />
+      <EffectLayer>
+        <Effect ref="4" name="On" selected="1" startTime="20650" endTime="20725" palette="14" />
+      </EffectLayer>
     </Element>
   </ElementEffects>
   <lastView>0</lastView>
