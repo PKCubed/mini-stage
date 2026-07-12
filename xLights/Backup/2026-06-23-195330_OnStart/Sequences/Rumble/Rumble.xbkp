@@ -168,7 +168,7 @@
         <Effect ref="2" name="Shockwave" id="11" startTime="55725" endTime="56600" palette="2" />
         <Effect ref="3" name="Shockwave" id="12" startTime="58300" endTime="58725" palette="3" />
         <Effect ref="2" name="Shockwave" id="13" startTime="59150" endTime="60025" palette="2" />
-        <Effect ref="4" name="Off" selected="1" id="14" startTime="61725" endTime="73750" palette="1" />
+        <Effect ref="4" name="Off" id="14" startTime="61725" endTime="73750" palette="1" />
         <Effect ref="3" name="Shockwave" id="15" startTime="75425" endTime="75850" palette="3" />
         <Effect ref="2" name="Shockwave" id="16" startTime="76275" endTime="77150" palette="2" />
         <Effect ref="3" name="Shockwave" id="17" startTime="78850" endTime="79275" palette="3" />
@@ -2048,7 +2048,7 @@
         <Effect ref="36" name="On" id="13" startTime="65775" endTime="67175" palette="14" />
         <Effect ref="36" name="On" id="14" startTime="68575" endTime="69975" palette="14" />
         <Effect ref="36" name="On" id="15" startTime="70950" endTime="72350" palette="14" />
-        <Effect ref="37" name="On" id="16" startTime="72650" endTime="75325" palette="14" />
+        <Effect ref="37" name="On" selected="1" id="16" startTime="72650" endTime="75325" palette="14" />
         <Effect ref="4" name="On" id="17" startTime="75425" endTime="75575" palette="14" />
         <Effect ref="4" name="On" id="18" startTime="79025" endTime="79175" palette="14" />
         <Effect ref="4" name="On" id="19" startTime="82275" endTime="82425" palette="14" />
