@@ -5,227 +5,177 @@
     <author></author>
     <author-email></author-email>
     <author-website></author-website>
-    <song>Catharina</song>
-    <artist>Martin Garrix</artist>
-    <album>Catharina</album>
+    <song></song>
+    <artist></artist>
+    <album></album>
     <MusicURL></MusicURL>
     <comment></comment>
     <sequenceTiming>25 ms</sequenceTiming>
-    <sequenceType>Media</sequenceType>
-    <mediaFile>C:\Users\peter\Documents\GitHub\mini-stage\music\Catharina.mp3</mediaFile>
-    <sequenceDuration>207.447</sequenceDuration>
+    <sequenceType>Animation</sequenceType>
+    <mediaFile></mediaFile>
+    <sequenceDuration>30.000</sequenceDuration>
     <imageDir></imageDir>
   </head>
   <ColorPalettes>
     <ColorPalette>C_BUTTON_Palette1=#ffffff,C_BUTTON_Palette2=#ff0000,C_BUTTON_Palette3=#00ff00,C_BUTTON_Palette4=#0000ff,C_BUTTON_Palette5=#ffff00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00ffff,C_BUTTON_Palette8=#ff00ff,C_CHECKBOXBRIGHTNESSLEVEL=0,C_CHECKBOX_Chroma=0,C_CHECKBOX_MusicSparkles=0,C_CHECKBOX_Palette1=0,C_CHECKBOX_Palette2=0,C_CHECKBOX_Palette3=0,C_CHECKBOX_Palette4=0,C_CHECKBOX_Palette5=0,C_CHECKBOX_Palette6=0,C_CHECKBOX_Palette7=0,C_CHECKBOX_Palette8=0,C_SLIDER_SparkleFrequency=0</ColorPalette>
-    <ColorPalette>C_BUTTON_Palette1=#ffffff,C_BUTTON_Palette2=#ff0000,C_BUTTON_Palette3=#00ff00,C_BUTTON_Palette4=#ff8000,C_BUTTON_Palette5=#ffff00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00ffff,C_BUTTON_Palette8=#ff0080,C_CHECKBOXBRIGHTNESSLEVEL=0,C_CHECKBOX_Chroma=0,C_CHECKBOX_MusicSparkles=0,C_CHECKBOX_Palette8=1,C_SLIDER_Brightness=50,C_SLIDER_SparkleFrequency=0</ColorPalette>
-    <ColorPalette>C_BUTTON_Palette1=#ffffff,C_BUTTON_Palette2=#ff0000,C_BUTTON_Palette3=#00ff00,C_BUTTON_Palette4=#ff8000,C_BUTTON_Palette5=#ffff00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00ffff,C_BUTTON_Palette8=#ff0080,C_CHECKBOXBRIGHTNESSLEVEL=0,C_CHECKBOX_Chroma=0,C_CHECKBOX_MusicSparkles=0,C_CHECKBOX_Palette1=0,C_CHECKBOX_Palette2=0,C_CHECKBOX_Palette3=0,C_CHECKBOX_Palette4=0,C_CHECKBOX_Palette5=0,C_CHECKBOX_Palette6=0,C_CHECKBOX_Palette7=0,C_CHECKBOX_Palette8=1,C_SLIDER_Brightness=50,C_SLIDER_SparkleFrequency=0</ColorPalette>
-    <ColorPalette>C_BUTTON_Palette1=#ffffff,C_BUTTON_Palette2=#ff0000,C_BUTTON_Palette3=#00ff00,C_BUTTON_Palette4=#ff8000,C_BUTTON_Palette5=#ffff00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00ffff,C_BUTTON_Palette8=#ff00ff,C_CHECKBOXBRIGHTNESSLEVEL=0,C_CHECKBOX_Chroma=0,C_CHECKBOX_MusicSparkles=0,C_CHECKBOX_Palette1=0,C_CHECKBOX_Palette2=0,C_CHECKBOX_Palette3=0,C_CHECKBOX_Palette4=1,C_CHECKBOX_Palette5=0,C_CHECKBOX_Palette6=0,C_CHECKBOX_Palette7=0,C_CHECKBOX_Palette8=0,C_SLIDER_Brightness=50,C_SLIDER_SparkleFrequency=0</ColorPalette>
-    <ColorPalette>C_BUTTON_Palette1=#ffffff,C_BUTTON_Palette2=#ff0000,C_BUTTON_Palette3=#00ff00,C_BUTTON_Palette4=#0000ff,C_BUTTON_Palette5=#ffff00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00ffff,C_BUTTON_Palette8=#ff00ff,C_CHECKBOXBRIGHTNESSLEVEL=0,C_CHECKBOX_Chroma=0,C_CHECKBOX_MusicSparkles=0,C_CHECKBOX_Palette1=0,C_CHECKBOX_Palette2=0,C_CHECKBOX_Palette3=0,C_CHECKBOX_Palette4=0,C_CHECKBOX_Palette5=0,C_CHECKBOX_Palette6=0,C_CHECKBOX_Palette7=0,C_CHECKBOX_Palette8=0,C_SLIDER_Brightness=1,C_SLIDER_Color_SaturationAdjust=-100,C_SLIDER_SparkleFrequency=0</ColorPalette>
-    <ColorPalette>C_BUTTON_Palette1=#ffffff,C_BUTTON_Palette2=#ff0000,C_BUTTON_Palette3=#00ff00,C_BUTTON_Palette4=#0000ff,C_BUTTON_Palette5=#ffff00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00ffff,C_BUTTON_Palette8=#ff00ff,C_CHECKBOXBRIGHTNESSLEVEL=0,C_CHECKBOX_Chroma=0,C_CHECKBOX_MusicSparkles=0,C_CHECKBOX_Palette1=0,C_CHECKBOX_Palette2=0,C_CHECKBOX_Palette3=0,C_CHECKBOX_Palette4=0,C_CHECKBOX_Palette5=0,C_CHECKBOX_Palette6=0,C_CHECKBOX_Palette7=1,C_CHECKBOX_Palette8=0,C_SLIDER_SparkleFrequency=0</ColorPalette>
-    <ColorPalette>C_BUTTON_Palette1=#ffffff,C_BUTTON_Palette2=#ff0000,C_BUTTON_Palette3=#00ff00,C_BUTTON_Palette4=#0000ff,C_BUTTON_Palette5=#ffff00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00ffff,C_BUTTON_Palette8=#0080ff,C_CHECKBOXBRIGHTNESSLEVEL=0,C_CHECKBOX_Chroma=0,C_CHECKBOX_MusicSparkles=0,C_CHECKBOX_Palette1=0,C_CHECKBOX_Palette2=0,C_CHECKBOX_Palette3=0,C_CHECKBOX_Palette4=0,C_CHECKBOX_Palette5=0,C_CHECKBOX_Palette6=0,C_CHECKBOX_Palette7=0,C_CHECKBOX_Palette8=1,C_SLIDER_SparkleFrequency=0</ColorPalette>
-    <ColorPalette>C_BUTTON_Palette1=#ffffff,C_BUTTON_Palette2=#ff0000,C_BUTTON_Palette3=#00ff00,C_BUTTON_Palette4=#ff8000,C_BUTTON_Palette5=#ffff00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00ffff,C_BUTTON_Palette8=#ff0080,C_CHECKBOXBRIGHTNESSLEVEL=0,C_CHECKBOX_Chroma=0,C_CHECKBOX_MusicSparkles=0,C_CHECKBOX_Palette8=1,C_SLIDER_Brightness=20,C_SLIDER_SparkleFrequency=0</ColorPalette>
-    <ColorPalette>C_BUTTON_Palette1=#ffffff,C_BUTTON_Palette2=#ff0000,C_BUTTON_Palette3=#00ff00,C_BUTTON_Palette4=#ff8000,C_BUTTON_Palette5=#ffff00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00ffff,C_BUTTON_Palette8=#ff00ff,C_CHECKBOXBRIGHTNESSLEVEL=0,C_CHECKBOX_Chroma=0,C_CHECKBOX_MusicSparkles=0,C_CHECKBOX_Palette1=0,C_CHECKBOX_Palette2=0,C_CHECKBOX_Palette3=0,C_CHECKBOX_Palette4=1,C_CHECKBOX_Palette5=0,C_CHECKBOX_Palette6=0,C_CHECKBOX_Palette7=0,C_CHECKBOX_Palette8=0,C_SLIDER_Brightness=20,C_SLIDER_SparkleFrequency=0</ColorPalette>
-    <ColorPalette>C_BUTTON_Palette1=#ffffff,C_BUTTON_Palette2=#ff0000,C_BUTTON_Palette3=#00ff00,C_BUTTON_Palette4=#0000ff,C_BUTTON_Palette5=#ffff00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00ffff,C_BUTTON_Palette8=#ff00ff,C_CHECKBOXBRIGHTNESSLEVEL=0,C_CHECKBOX_Chroma=0,C_CHECKBOX_MusicSparkles=0,C_CHECKBOX_Palette1=0,C_CHECKBOX_Palette2=0,C_CHECKBOX_Palette3=0,C_CHECKBOX_Palette4=0,C_CHECKBOX_Palette5=0,C_CHECKBOX_Palette6=0,C_CHECKBOX_Palette7=0,C_CHECKBOX_Palette8=0,C_SLIDER_Brightness=100,C_SLIDER_SparkleFrequency=0</ColorPalette>
-    <ColorPalette>C_BUTTON_Palette1=#ffffff,C_BUTTON_Palette2=#ff0000,C_BUTTON_Palette3=#00ff00,C_BUTTON_Palette4=#0000ff,C_BUTTON_Palette5=#ffff00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00ffff,C_BUTTON_Palette8=#ff00ff,C_CHECKBOXBRIGHTNESSLEVEL=0,C_CHECKBOX_Chroma=0,C_CHECKBOX_MusicSparkles=0,C_CHECKBOX_Palette1=0,C_CHECKBOX_Palette2=0,C_CHECKBOX_Palette3=0,C_CHECKBOX_Palette4=0,C_CHECKBOX_Palette5=0,C_CHECKBOX_Palette6=0,C_CHECKBOX_Palette7=0,C_CHECKBOX_Palette8=0,C_SLIDER_Brightness=12,C_SLIDER_SparkleFrequency=0</ColorPalette>
   </ColorPalettes>
   <EffectDB>
-    <Effect>T_CHECKBOX_Canvas=0,T_CHECKBOX_LayerMorph=0,T_CHOICE_LayerMethod=Normal,T_SLIDER_EffectLayerMix=0,T_TEXTCTRL_Fadein=1,T_TEXTCTRL_Fadeout=0.5</Effect>
-    <Effect>B_CHOICE_BufferStyle=Per Model Default,E_CHECKBOX_Shockwave_Blend_Edges=1,E_CHECKBOX_Shockwave_Scale=1,E_CHOICE_Shockwave_TimingTrack=,E_NOTEBOOK_Shockwave=Position,E_SLIDER_Shockwave_Accel=0,E_SLIDER_Shockwave_CenterX=0,E_SLIDER_Shockwave_CenterY=50,E_SLIDER_Shockwave_Cycles=1,E_SLIDER_Shockwave_End_Radius=326,E_SLIDER_Shockwave_End_Width=255,E_SLIDER_Shockwave_Start_Radius=0,E_SLIDER_Shockwave_Start_Width=10,T_CHECKBOX_Canvas=0,T_CHECKBOX_LayerMorph=0,T_CHOICE_LayerMethod=Normal,T_SLIDER_EffectLayerMix=0,T_TEXTCTRL_Fadein=0.5,T_TEXTCTRL_Fadeout=1</Effect>
-    <Effect>B_CHOICE_BufferStyle=Per Model Default,E_CHECKBOX_Shockwave_Blend_Edges=1,E_CHECKBOX_Shockwave_Scale=1,E_CHOICE_Shockwave_TimingTrack=,E_NOTEBOOK_Shockwave=Position,E_SLIDER_Shockwave_Accel=0,E_SLIDER_Shockwave_CenterX=0,E_SLIDER_Shockwave_CenterY=50,E_SLIDER_Shockwave_Cycles=1,E_SLIDER_Shockwave_End_Radius=326,E_SLIDER_Shockwave_End_Width=255,E_SLIDER_Shockwave_Start_Radius=0,E_SLIDER_Shockwave_Start_Width=10,T_CHECKBOX_Canvas=0,T_CHECKBOX_LayerMorph=0,T_CHOICE_LayerMethod=Normal,T_SLIDER_EffectLayerMix=0,T_TEXTCTRL_Fadein=0.5,T_TEXTCTRL_Fadeout=1.5</Effect>
-    <Effect>B_CHOICE_BufferStyle=Per Model Default,E_CHECKBOX_Shockwave_Blend_Edges=1,E_CHECKBOX_Shockwave_Scale=1,E_CHOICE_Shockwave_TimingTrack=,E_NOTEBOOK_Shockwave=Position,E_SLIDER_Shockwave_Accel=0,E_SLIDER_Shockwave_CenterX=100,E_SLIDER_Shockwave_CenterY=50,E_SLIDER_Shockwave_Cycles=1,E_SLIDER_Shockwave_End_Radius=326,E_SLIDER_Shockwave_End_Width=255,E_SLIDER_Shockwave_Start_Radius=0,E_SLIDER_Shockwave_Start_Width=10,T_CHECKBOX_Canvas=0,T_CHECKBOX_LayerMorph=0,T_CHOICE_LayerMethod=Normal,T_SLIDER_EffectLayerMix=0,T_TEXTCTRL_Fadein=0.5,T_TEXTCTRL_Fadeout=1</Effect>
-    <Effect>E_0FILEPICKERCTRL_IFS=C:\Users\peter\Documents\GitHub\mini-stage\xLights\Shaders\RippleFactory.fs,E_SLIDER_SHADERXYZZY_brightness=50,E_SLIDER_SHADERXYZZY_depth=225,E_SLIDER_SHADERXYZZY_freqmodX=100,E_SLIDER_SHADERXYZZY_freqmodY=-50,E_SLIDER_SHADERXYZZY_hueA=11,E_SLIDER_SHADERXYZZY_hueB=5,E_SLIDER_SHADERXYZZY_phaseX=1000,E_SLIDER_SHADERXYZZY_phaseY=1000,E_SLIDER_SHADERXYZZY_rate=150,E_SLIDER_SHADERXYZZY_saturation=50,E_SLIDER_Shader_Speed=100,E_TEXTCTRL_Shader_LeadIn=0,E_TEXTCTRL_Shader_Offset_X=0,E_TEXTCTRL_Shader_Offset_Y=0,E_TEXTCTRL_Shader_Zoom=-72,T_CHECKBOX_Canvas=0,T_CHECKBOX_LayerMorph=0,T_CHOICE_LayerMethod=Normal,T_SLIDER_EffectLayerMix=0</Effect>
-    <Effect>B_CHOICE_BufferStyle=Per Model Default,E_CHECKBOX_Shockwave_Blend_Edges=1,E_CHECKBOX_Shockwave_Scale=1,E_CHOICE_Shockwave_TimingTrack=,E_NOTEBOOK_Shockwave=Position,E_SLIDER_Shockwave_Accel=0,E_SLIDER_Shockwave_CenterX=0,E_SLIDER_Shockwave_CenterY=50,E_SLIDER_Shockwave_Cycles=1,E_SLIDER_Shockwave_End_Radius=229,E_SLIDER_Shockwave_End_Width=96,E_SLIDER_Shockwave_Start_Radius=1,E_SLIDER_Shockwave_Start_Width=60,T_CHECKBOX_Canvas=0,T_CHECKBOX_LayerMorph=0,T_CHOICE_LayerMethod=Normal,T_SLIDER_EffectLayerMix=93,T_TEXTCTRL_Fadein=0.5,T_TEXTCTRL_Fadeout=1.00</Effect>
-    <Effect>B_CHOICE_BufferStyle=Per Model Default,E_CHECKBOX_Shockwave_Blend_Edges=1,E_CHECKBOX_Shockwave_Scale=1,E_CHOICE_Shockwave_TimingTrack=,E_NOTEBOOK_Shockwave=Position,E_SLIDER_Shockwave_Accel=0,E_SLIDER_Shockwave_CenterX=100,E_SLIDER_Shockwave_CenterY=50,E_SLIDER_Shockwave_Cycles=1,E_SLIDER_Shockwave_End_Radius=229,E_SLIDER_Shockwave_End_Width=96,E_SLIDER_Shockwave_Start_Radius=1,E_SLIDER_Shockwave_Start_Width=60,T_CHECKBOX_Canvas=0,T_CHECKBOX_LayerMorph=0,T_CHOICE_LayerMethod=Normal,T_SLIDER_EffectLayerMix=93,T_TEXTCTRL_Fadein=0.5,T_TEXTCTRL_Fadeout=1.00</Effect>
-    <Effect>B_CHOICE_BufferStyle=Per Model Default,E_CHECKBOX_Shockwave_Blend_Edges=1,E_CHECKBOX_Shockwave_Scale=1,E_CHOICE_Shockwave_TimingTrack=,E_NOTEBOOK_Shockwave=Position,E_SLIDER_Shockwave_Accel=0,E_SLIDER_Shockwave_CenterX=100,E_SLIDER_Shockwave_CenterY=50,E_SLIDER_Shockwave_Cycles=1,E_SLIDER_Shockwave_End_Radius=229,E_SLIDER_Shockwave_End_Width=96,E_SLIDER_Shockwave_Start_Radius=1,E_SLIDER_Shockwave_Start_Width=60,T_CHECKBOX_Canvas=0,T_CHECKBOX_LayerMorph=0,T_CHOICE_LayerMethod=Normal,T_SLIDER_EffectLayerMix=87,T_TEXTCTRL_Fadein=0.5,T_TEXTCTRL_Fadeout=1.00</Effect>
-    <Effect>B_CHOICE_BufferStyle=Per Model Default,E_CHECKBOX_Shockwave_Blend_Edges=1,E_CHECKBOX_Shockwave_Scale=1,E_CHOICE_Shockwave_TimingTrack=,E_NOTEBOOK_Shockwave=Position,E_SLIDER_Shockwave_Accel=0,E_SLIDER_Shockwave_CenterX=0,E_SLIDER_Shockwave_CenterY=50,E_SLIDER_Shockwave_Cycles=1,E_SLIDER_Shockwave_End_Radius=229,E_SLIDER_Shockwave_End_Width=96,E_SLIDER_Shockwave_Start_Radius=1,E_SLIDER_Shockwave_Start_Width=60,T_CHECKBOX_Canvas=0,T_CHECKBOX_LayerMorph=0,T_CHOICE_LayerMethod=Normal,T_SLIDER_EffectLayerMix=89,T_TEXTCTRL_Fadein=0.5,T_TEXTCTRL_Fadeout=1.00</Effect>
-    <Effect>B_CHOICE_BufferStyle=Per Model Default,E_CHECKBOX_Shockwave_Blend_Edges=1,E_CHECKBOX_Shockwave_Scale=1,E_CHOICE_Shockwave_TimingTrack=,E_NOTEBOOK_Shockwave=Position,E_SLIDER_Shockwave_Accel=0,E_SLIDER_Shockwave_CenterX=0,E_SLIDER_Shockwave_CenterY=50,E_SLIDER_Shockwave_Cycles=1,E_SLIDER_Shockwave_End_Radius=229,E_SLIDER_Shockwave_End_Width=96,E_SLIDER_Shockwave_Start_Radius=1,E_SLIDER_Shockwave_Start_Width=60,T_CHECKBOX_Canvas=0,T_CHECKBOX_LayerMorph=0,T_CHOICE_LayerMethod=Normal,T_SLIDER_EffectLayerMix=70,T_TEXTCTRL_Fadein=0.5,T_TEXTCTRL_Fadeout=1.00</Effect>
-    <Effect>B_CHOICE_BufferStyle=Per Model Default,E_CHECKBOX_Shockwave_Blend_Edges=1,E_CHECKBOX_Shockwave_Scale=1,E_CHOICE_Shockwave_TimingTrack=,E_NOTEBOOK_Shockwave=Position,E_SLIDER_Shockwave_Accel=0,E_SLIDER_Shockwave_CenterX=100,E_SLIDER_Shockwave_CenterY=50,E_SLIDER_Shockwave_Cycles=1,E_SLIDER_Shockwave_End_Radius=229,E_SLIDER_Shockwave_End_Width=96,E_SLIDER_Shockwave_Start_Radius=1,E_SLIDER_Shockwave_Start_Width=60,T_CHECKBOX_Canvas=0,T_CHECKBOX_LayerMorph=0,T_CHOICE_LayerMethod=Normal,T_SLIDER_EffectLayerMix=70,T_TEXTCTRL_Fadein=0.5,T_TEXTCTRL_Fadeout=1.00</Effect>
-    <Effect>B_CHOICE_BufferStyle=Per Model Default,E_CHECKBOX_Shockwave_Blend_Edges=1,E_CHECKBOX_Shockwave_Scale=1,E_CHOICE_Shockwave_TimingTrack=,E_NOTEBOOK_Shockwave=Position,E_SLIDER_Shockwave_Accel=0,E_SLIDER_Shockwave_CenterX=0,E_SLIDER_Shockwave_CenterY=50,E_SLIDER_Shockwave_Cycles=1,E_SLIDER_Shockwave_End_Radius=295,E_SLIDER_Shockwave_End_Width=255,E_SLIDER_Shockwave_Start_Radius=0,E_SLIDER_Shockwave_Start_Width=10,T_CHECKBOX_Canvas=0,T_CHECKBOX_LayerMorph=0,T_CHOICE_LayerMethod=Normal,T_SLIDER_EffectLayerMix=0,T_TEXTCTRL_Fadein=0.5,T_TEXTCTRL_Fadeout=1</Effect>
-    <Effect>T_CHECKBOX_Canvas=0,T_CHECKBOX_LayerMorph=0,T_CHOICE_LayerMethod=Normal,T_SLIDER_EffectLayerMix=0,T_TEXTCTRL_Fadein=3,T_TEXTCTRL_Fadeout=1</Effect>
+    <Effect>T_CHECKBOX_Canvas=0,T_CHECKBOX_LayerMorph=0,T_CHOICE_LayerMethod=Normal,T_SLIDER_EffectLayerMix=0</Effect>
+    <Effect>E_CHECKBOX_Shockwave_Blend_Edges=1,E_CHECKBOX_Shockwave_Scale=1,E_CHOICE_Shockwave_TimingTrack=,E_NOTEBOOK_Shockwave=Position,E_SLIDER_Shockwave_Accel=0,E_SLIDER_Shockwave_CenterX=0,E_SLIDER_Shockwave_CenterY=50,E_SLIDER_Shockwave_Cycles=1,E_SLIDER_Shockwave_End_Radius=193,E_SLIDER_Shockwave_End_Width=19,E_SLIDER_Shockwave_Start_Radius=0,E_SLIDER_Shockwave_Start_Width=19,T_CHECKBOX_Canvas=0,T_CHECKBOX_LayerMorph=0,T_CHOICE_LayerMethod=Normal,T_SLIDER_EffectLayerMix=0</Effect>
+    <Effect>E_CHECKBOX_Shockwave_Blend_Edges=1,E_CHECKBOX_Shockwave_Scale=1,E_CHOICE_Shockwave_TimingTrack=,E_NOTEBOOK_Shockwave=Position,E_SLIDER_Shockwave_Accel=0,E_SLIDER_Shockwave_CenterX=0,E_SLIDER_Shockwave_CenterY=50,E_SLIDER_Shockwave_Cycles=1,E_SLIDER_Shockwave_End_Radius=0,E_SLIDER_Shockwave_End_Width=19,E_SLIDER_Shockwave_Start_Radius=193,E_SLIDER_Shockwave_Start_Width=19,T_CHECKBOX_Canvas=0,T_CHECKBOX_LayerMorph=0,T_CHOICE_LayerMethod=Normal,T_SLIDER_EffectLayerMix=0</Effect>
   </EffectDB>
   <SequenceMedia />
   <DataLayers>
     <DataLayer lor_params="0" channel_offset="0" num_channels="0" num_frames="0" data="&lt;rendered: erase-mode>" source="&lt;auto-generated>" name="Nutcracker" />
   </DataLayers>
   <DisplayElements>
-    <Element collapsed="false" type="timing" name="New Timing" visible="true" views=",Master View" active="false" />
+    <Element collapsed="false" type="timing" name="New Timing" visible="true" views=",Master View" active="true" />
     <Element collapsed="false" type="model" name="All" visible="true" />
+    <Element collapsed="false" type="model" name="Beam 1" visible="true" />
+    <Element collapsed="false" type="model" name="Beam 2" visible="true" />
+    <Element collapsed="false" type="model" name="Beam 3" visible="true" />
+    <Element collapsed="false" type="model" name="Beam 4" visible="true" />
     <Element collapsed="false" type="model" name="Beams" visible="true" />
+    <Element collapsed="false" type="model" name="Diagonal Bar 1" visible="true" />
+    <Element collapsed="false" type="model" name="Diagonal Bar 2" visible="true" />
+    <Element collapsed="false" type="model" name="Diagonal Bar 3" visible="true" />
+    <Element collapsed="false" type="model" name="Diagonal Bar 4" visible="true" />
+    <Element collapsed="false" type="model" name="Diagonal Bars" visible="true" />
+    <Element collapsed="false" type="model" name="Floor Post 1" visible="true" />
+    <Element collapsed="false" type="model" name="Floor Post 2" visible="true" />
+    <Element collapsed="false" type="model" name="Floor Post 3" visible="true" />
+    <Element collapsed="false" type="model" name="Floor Post 4" visible="true" />
+    <Element collapsed="false" type="model" name="Floor Post 5" visible="true" />
+    <Element collapsed="false" type="model" name="Floor Post 6" visible="true" />
+    <Element collapsed="false" type="model" name="Floor Posts" visible="true" />
+    <Element collapsed="false" type="model" name="Laser Wall" visible="true" />
+    <Element collapsed="false" type="model" name="Red Spot Left" visible="true" />
+    <Element collapsed="false" type="model" name="Red Spot Right" visible="true" />
+    <Element collapsed="false" type="model" name="Stage Floor Outline" visible="true" />
+    <Element collapsed="false" type="model" name="Stage Floor Outline 1" visible="true" />
+    <Element collapsed="false" type="model" name="Stage Floor Outline 2" visible="true" />
+    <Element collapsed="false" type="model" name="Stage Floor Outline 3" visible="true" />
+    <Element collapsed="false" type="model" name="Vertical Truss Strip 1" visible="true" />
+    <Element collapsed="false" type="model" name="Vertical Truss Strip 2" visible="true" />
+    <Element collapsed="false" type="model" name="Vertical Truss Strip 3" visible="true" />
+    <Element collapsed="false" type="model" name="Vertical Truss Strip 4" visible="true" />
+    <Element collapsed="false" type="model" name="Vertical Truss Strips" visible="true" />
+    <Element collapsed="false" type="model" name="Video Wall" visible="true" />
+    <Element collapsed="false" type="model" name="Warm Spot Left" visible="true" />
+    <Element collapsed="false" type="model" name="Warm Spot Right" visible="true" />
     <Element collapsed="false" type="model" name="Warm Spots" visible="true" />
-    <Element collapsed="false" type="model" name="Floor Posts" visible="false" />
-    <Element collapsed="false" type="model" name="Video Wall" visible="false" />
-    <Element collapsed="false" type="model" name="Diagonal Bars" visible="false" />
-    <Element collapsed="false" type="model" name="Vertical Truss Strips" visible="false" />
-    <Element collapsed="false" type="model" name="Stage Floor Outline" visible="false" />
-    <Element collapsed="false" type="model" name="Beam 1" visible="false" />
-    <Element collapsed="false" type="model" name="Beam 2" visible="false" />
-    <Element collapsed="false" type="model" name="Beam 3" visible="false" />
-    <Element collapsed="false" type="model" name="Beam 4" visible="false" />
   </DisplayElements>
   <ElementEffects>
     <Element type="timing" name="New Timing">
-      <EffectLayer>
-        <Effect label="" startTime="0" endTime="7675" />
-        <Effect label="" startTime="7675" endTime="8150" />
-        <Effect label="" startTime="8150" endTime="8625" />
-        <Effect label="" startTime="8625" endTime="9100" />
-        <Effect label="" startTime="9100" endTime="9550" />
-        <Effect label="" startTime="9550" endTime="10000" />
-        <Effect label="" startTime="10000" endTime="10450" />
-        <Effect label="" startTime="10450" endTime="10925" />
-        <Effect label="" startTime="10925" endTime="11275" />
-        <Effect label="" startTime="11275" endTime="11825" />
-        <Effect label="" startTime="11825" endTime="12300" />
-        <Effect label="" startTime="12300" endTime="12825" />
-        <Effect label="" startTime="12825" endTime="13225" />
-        <Effect label="" startTime="13225" endTime="13700" />
-        <Effect label="" startTime="13700" endTime="14175" />
-        <Effect label="" startTime="14175" endTime="14600" />
-        <Effect label="" startTime="14600" endTime="15100" />
-        <Effect label="" startTime="15100" endTime="15525" />
-        <Effect label="" startTime="15525" endTime="16000" />
-        <Effect label="" startTime="16000" endTime="16475" />
-        <Effect label="" startTime="16475" endTime="16975" />
-        <Effect label="" startTime="16975" endTime="17400" />
-        <Effect label="" startTime="17400" endTime="17850" />
-        <Effect label="" startTime="17850" endTime="18275" />
-        <Effect label="" startTime="18275" endTime="18725" />
-        <Effect label="" startTime="18725" endTime="19250" />
-        <Effect label="" startTime="19250" endTime="19700" />
-        <Effect label="" startTime="19700" endTime="20200" />
-        <Effect label="" startTime="20200" endTime="20650" />
-        <Effect label="" startTime="20650" endTime="21075" />
-        <Effect label="" startTime="21075" endTime="21525" />
-        <Effect label="" startTime="21525" endTime="21975" />
-      </EffectLayer>
+      <EffectLayer />
     </Element>
     <Element type="model" name="All">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="Beam 1">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="Beam 2">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="Beam 3">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="Beam 4">
       <EffectLayer />
     </Element>
     <Element type="model" name="Beams">
       <EffectLayer />
     </Element>
-    <Element type="model" name="Warm Spots">
-      <EffectLayer>
-        <Effect ref="0" name="On" startTime="51925" endTime="55875" palette="0" />
-        <Effect ref="0" name="On" id="1" startTime="59325" endTime="63275" palette="0" />
-        <Effect ref="0" name="On" id="2" startTime="66675" endTime="70400" palette="0" />
-        <Effect ref="0" name="On" id="3" startTime="74025" endTime="77800" palette="0" />
-      </EffectLayer>
+    <Element type="model" name="Diagonal Bar 1">
+      <EffectLayer />
     </Element>
-    <Element type="model" name="Floor Posts">
-      <EffectLayer>
-        <Effect ref="1" name="Shockwave" startTime="55550" endTime="59900" palette="1" />
-        <Effect ref="1" name="Shockwave" id="1" startTime="62850" endTime="67200" palette="1" />
-        <Effect ref="1" name="Shockwave" id="2" startTime="70150" endTime="74500" palette="1" />
-        <Effect ref="2" name="Shockwave" id="3" startTime="77450" endTime="80375" palette="2" />
-      </EffectLayer>
-      <EffectLayer>
-        <Effect ref="3" name="Shockwave" startTime="51700" endTime="56050" palette="3" />
-        <Effect ref="3" name="Shockwave" id="1" startTime="59000" endTime="63350" palette="3" />
-        <Effect ref="3" name="Shockwave" id="2" startTime="66300" endTime="70650" palette="3" />
-        <Effect ref="3" name="Shockwave" id="3" startTime="73600" endTime="77950" palette="3" />
-      </EffectLayer>
+    <Element type="model" name="Diagonal Bar 2">
+      <EffectLayer />
     </Element>
-    <Element type="model" name="Video Wall">
+    <Element type="model" name="Diagonal Bar 3">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="Diagonal Bar 4">
       <EffectLayer>
-        <Effect ref="4" name="Shader" startTime="225" endTime="81450" palette="4" />
+        <Effect ref="0" name="Off" startTime="0" endTime="6800" palette="0" />
       </EffectLayer>
     </Element>
     <Element type="model" name="Diagonal Bars">
-      <EffectLayer>
-        <Effect ref="5" name="Shockwave" startTime="10275" endTime="12425" palette="5" />
-        <Effect ref="6" name="Shockwave" id="1" startTime="14100" endTime="16250" palette="6" />
-        <Effect ref="5" name="Shockwave" id="2" startTime="17750" endTime="19900" palette="5" />
-        <Effect ref="7" name="Shockwave" id="3" startTime="21450" endTime="23600" palette="6" />
-        <Effect ref="8" name="Shockwave" id="4" startTime="25075" endTime="27225" palette="5" />
-        <Effect ref="7" name="Shockwave" id="5" startTime="28775" endTime="30925" palette="6" />
-        <Effect ref="8" name="Shockwave" id="6" startTime="32475" endTime="34625" palette="5" />
-        <Effect ref="7" name="Shockwave" id="7" startTime="36175" endTime="38325" palette="6" />
-        <Effect ref="8" name="Shockwave" id="8" startTime="39925" endTime="42075" palette="5" />
-        <Effect ref="7" name="Shockwave" id="9" startTime="43625" endTime="45775" palette="6" />
-        <Effect ref="8" name="Shockwave" id="10" startTime="47125" endTime="49275" palette="5" />
-        <Effect ref="7" name="Shockwave" id="11" startTime="50825" endTime="52975" palette="6" />
-        <Effect ref="9" name="Shockwave" id="12" startTime="54525" endTime="56675" palette="5" />
-        <Effect ref="10" name="Shockwave" id="13" startTime="58225" endTime="60375" palette="6" />
-        <Effect ref="9" name="Shockwave" id="14" startTime="61825" endTime="63975" palette="5" />
-        <Effect ref="10" name="Shockwave" id="15" startTime="65525" endTime="67675" palette="6" />
-        <Effect ref="9" name="Shockwave" id="16" startTime="69275" endTime="71425" palette="5" />
-        <Effect ref="10" name="Shockwave" id="17" startTime="72975" endTime="75125" palette="6" />
-        <Effect ref="9" name="Shockwave" id="18" startTime="76700" endTime="78850" palette="5" />
-      </EffectLayer>
-      <EffectLayer>
-        <Effect ref="11" name="Shockwave" startTime="11275" endTime="14800" palette="7" />
-        <Effect ref="1" name="Shockwave" id="1" startTime="18525" endTime="22950" palette="7" />
-        <Effect ref="11" name="Shockwave" id="2" startTime="25825" endTime="29675" palette="7" />
-        <Effect ref="1" name="Shockwave" id="3" startTime="33150" endTime="37500" palette="7" />
-        <Effect ref="1" name="Shockwave" id="4" startTime="40750" endTime="45100" palette="7" />
-        <Effect ref="1" name="Shockwave" id="5" startTime="48075" endTime="52425" palette="7" />
-        <Effect ref="1" name="Shockwave" id="6" startTime="55550" endTime="59900" palette="1" />
-        <Effect ref="1" name="Shockwave" id="7" startTime="62850" endTime="67200" palette="1" />
-        <Effect ref="1" name="Shockwave" id="8" startTime="70150" endTime="74500" palette="1" />
-        <Effect ref="2" name="Shockwave" selected="1" id="9" startTime="77450" endTime="80375" palette="2" />
-      </EffectLayer>
-      <EffectLayer>
-        <Effect ref="3" name="Shockwave" startTime="7600" endTime="12150" palette="8" />
-        <Effect ref="3" name="Shockwave" id="1" startTime="14825" endTime="19375" palette="8" />
-        <Effect ref="3" name="Shockwave" id="2" startTime="22150" endTime="26575" palette="8" />
-        <Effect ref="3" name="Shockwave" id="3" startTime="29450" endTime="34000" palette="8" />
-        <Effect ref="3" name="Shockwave" id="4" startTime="36950" endTime="41500" palette="8" />
-        <Effect ref="3" name="Shockwave" id="5" startTime="44350" endTime="48700" palette="8" />
-        <Effect ref="3" name="Shockwave" id="6" startTime="51700" endTime="56050" palette="3" />
-        <Effect ref="3" name="Shockwave" id="7" startTime="59000" endTime="63350" palette="3" />
-        <Effect ref="3" name="Shockwave" id="8" startTime="66300" endTime="70650" palette="3" />
-        <Effect ref="3" name="Shockwave" id="9" startTime="73600" endTime="77950" palette="3" />
-      </EffectLayer>
       <EffectLayer />
     </Element>
-    <Element type="model" name="Vertical Truss Strips">
+    <Element type="model" name="Floor Post 1">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="Floor Post 2">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="Floor Post 3">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="Floor Post 4">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="Floor Post 5">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="Floor Post 6">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="Floor Posts">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="Laser Wall">
+      <EffectLayer>
+        <Effect ref="1" name="Shockwave" startTime="0" endTime="3400" palette="0" />
+        <Effect ref="2" name="Shockwave" id="1" startTime="3400" endTime="6800" palette="0" />
+        <Effect ref="0" name="On" selected="1" id="2" startTime="9850" endTime="10850" palette="0" />
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Red Spot Left">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="Red Spot Right">
       <EffectLayer />
     </Element>
     <Element type="model" name="Stage Floor Outline">
       <EffectLayer />
     </Element>
-    <Element type="model" name="Beam 1">
-      <EffectLayer>
-        <Effect ref="12" name="On" startTime="11375" endTime="15375" palette="9" />
-        <Effect ref="12" name="On" id="1" startTime="18725" endTime="22725" palette="9" />
-        <Effect ref="12" name="On" id="2" startTime="55750" endTime="59750" palette="9" />
-        <Effect ref="12" name="On" id="3" startTime="63175" endTime="67175" palette="9" />
-        <Effect ref="12" name="On" id="4" startTime="70475" endTime="74475" palette="9" />
-        <Effect ref="12" name="On" id="5" startTime="77900" endTime="81900" palette="9" />
-      </EffectLayer>
+    <Element type="model" name="Stage Floor Outline 1">
+      <EffectLayer />
     </Element>
-    <Element type="model" name="Beam 2">
-      <EffectLayer>
-        <Effect ref="12" name="On" startTime="7600" endTime="11600" palette="9" />
-        <Effect ref="12" name="On" id="1" startTime="15025" endTime="19025" palette="10" />
-        <Effect ref="12" name="On" id="2" startTime="51925" endTime="55750" palette="9" />
-        <Effect ref="12" name="On" id="3" startTime="59400" endTime="63400" palette="10" />
-        <Effect ref="12" name="On" id="4" startTime="66650" endTime="70475" palette="9" />
-        <Effect ref="12" name="On" id="5" startTime="74125" endTime="81900" palette="10" />
-      </EffectLayer>
+    <Element type="model" name="Stage Floor Outline 2">
+      <EffectLayer />
     </Element>
-    <Element type="model" name="Beam 3">
-      <EffectLayer>
-        <Effect ref="12" name="On" startTime="7600" endTime="11600" palette="9" />
-        <Effect ref="12" name="On" id="1" startTime="15025" endTime="19025" palette="10" />
-        <Effect ref="12" name="On" id="2" startTime="51925" endTime="55750" palette="9" />
-        <Effect ref="12" name="On" id="3" startTime="59400" endTime="63400" palette="10" />
-        <Effect ref="12" name="On" id="4" startTime="66650" endTime="70475" palette="9" />
-        <Effect ref="12" name="On" id="5" startTime="74125" endTime="81900" palette="10" />
-      </EffectLayer>
+    <Element type="model" name="Stage Floor Outline 3">
+      <EffectLayer />
     </Element>
-    <Element type="model" name="Beam 4">
-      <EffectLayer>
-        <Effect ref="12" name="On" startTime="11375" endTime="15375" palette="9" />
-        <Effect ref="12" name="On" id="1" startTime="18725" endTime="22725" palette="9" />
-        <Effect ref="12" name="On" id="2" startTime="55750" endTime="59750" palette="9" />
-        <Effect ref="12" name="On" id="3" startTime="63175" endTime="67175" palette="9" />
-        <Effect ref="12" name="On" id="4" startTime="70475" endTime="74475" palette="9" />
-        <Effect ref="12" name="On" id="5" startTime="77900" endTime="81900" palette="9" />
-      </EffectLayer>
+    <Element type="model" name="Vertical Truss Strip 1">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="Vertical Truss Strip 2">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="Vertical Truss Strip 3">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="Vertical Truss Strip 4">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="Vertical Truss Strips">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="Video Wall">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="Warm Spot Left">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="Warm Spot Right">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="Warm Spots">
+      <EffectLayer />
     </Element>
   </ElementEffects>
   <lastView>0</lastView>
