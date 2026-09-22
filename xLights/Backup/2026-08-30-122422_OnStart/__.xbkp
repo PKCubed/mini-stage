@@ -1,0 +1,319 @@
+<?xml version="1.0"?>
+<xsequence BaseChannel="0" ChanCtrlBasic="0" ChanCtrlColor="0" FixedPointTiming="1" ModelBlending="true">
+  <head>
+    <version>2026.15</version>
+    <author></author>
+    <author-email></author-email>
+    <author-website></author-website>
+    <song>Icarus</song>
+    <artist>Madeon</artist>
+    <album>Adventure (Deluxe)</album>
+    <MusicURL></MusicURL>
+    <comment></comment>
+    <sequenceTiming>10 ms</sequenceTiming>
+    <sequenceType>Media</sequenceType>
+    <mediaFile>C:\Users\peter\Documents\GitHub\mini-stage\music\Icarus_spotdown.org.mp3</mediaFile>
+    <sequenceDuration>214.655</sequenceDuration>
+    <imageDir></imageDir>
+  </head>
+  <ColorPalettes>
+    <ColorPalette>C_BUTTON_Palette1=#ffffff,C_BUTTON_Palette2=#ff0000,C_BUTTON_Palette3=#00ff00,C_BUTTON_Palette4=#0000ff,C_BUTTON_Palette5=#ffff00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#ff0080,C_BUTTON_Palette8=#ff00ff,C_CHECKBOXBRIGHTNESSLEVEL=0,C_CHECKBOX_Chroma=0,C_CHECKBOX_MusicSparkles=0,C_CHECKBOX_Palette1=0,C_CHECKBOX_Palette2=0,C_CHECKBOX_Palette3=0,C_CHECKBOX_Palette4=0,C_CHECKBOX_Palette5=0,C_CHECKBOX_Palette6=1,C_CHECKBOX_Palette7=1,C_CHECKBOX_Palette8=1,C_SLIDER_SparkleFrequency=0</ColorPalette>
+    <ColorPalette>C_BUTTON_Palette1=#ffffff,C_BUTTON_Palette2=#ff0000,C_BUTTON_Palette3=#00ff00,C_BUTTON_Palette4=#0000ff,C_BUTTON_Palette5=#ffff00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#ff0080,C_BUTTON_Palette8=#ff00ff,C_CHECKBOXBRIGHTNESSLEVEL=0,C_CHECKBOX_Chroma=0,C_CHECKBOX_MusicSparkles=0,C_CHECKBOX_Palette1=1,C_CHECKBOX_Palette2=0,C_CHECKBOX_Palette3=0,C_CHECKBOX_Palette4=0,C_CHECKBOX_Palette5=0,C_CHECKBOX_Palette6=0,C_CHECKBOX_Palette7=0,C_CHECKBOX_Palette8=0,C_SLIDER_SparkleFrequency=0</ColorPalette>
+    <ColorPalette>C_BUTTON_Palette1=#ffffff,C_BUTTON_Palette2=#ff0000,C_BUTTON_Palette3=#00ff00,C_BUTTON_Palette4=#0000ff,C_BUTTON_Palette5=#ffff00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#ff0000,C_BUTTON_Palette8=#ff0080,C_CHECKBOXBRIGHTNESSLEVEL=0,C_CHECKBOX_Chroma=0,C_CHECKBOX_MusicSparkles=0,C_CHECKBOX_Palette1=0,C_CHECKBOX_Palette2=0,C_CHECKBOX_Palette3=0,C_CHECKBOX_Palette4=0,C_CHECKBOX_Palette5=0,C_CHECKBOX_Palette6=1,C_CHECKBOX_Palette7=1,C_CHECKBOX_Palette8=1,C_SLIDER_SparkleFrequency=0</ColorPalette>
+    <ColorPalette>C_BUTTON_Palette1=#ffffff,C_BUTTON_Palette2=#ff0000,C_BUTTON_Palette3=#00ff00,C_BUTTON_Palette4=#0000ff,C_BUTTON_Palette5=#ffb300,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#ff0080,C_BUTTON_Palette8=#ff00ff,C_CHECKBOXBRIGHTNESSLEVEL=0,C_CHECKBOX_Chroma=0,C_CHECKBOX_MusicSparkles=0,C_CHECKBOX_Palette1=0,C_CHECKBOX_Palette2=0,C_CHECKBOX_Palette3=0,C_CHECKBOX_Palette4=0,C_CHECKBOX_Palette5=0,C_CHECKBOX_Palette6=0,C_CHECKBOX_Palette7=0,C_CHECKBOX_Palette8=1,C_SLIDER_SparkleFrequency=0</ColorPalette>
+    <ColorPalette>C_BUTTON_Palette1=#ffffff,C_BUTTON_Palette2=#ff0000,C_BUTTON_Palette3=#00ff00,C_BUTTON_Palette4=#0000ff,C_BUTTON_Palette5=#ffb300,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#ff0080,C_BUTTON_Palette8=#ff00ff,C_CHECKBOXBRIGHTNESSLEVEL=0,C_CHECKBOX_Chroma=0,C_CHECKBOX_MusicSparkles=0,C_CHECKBOX_Palette1=1,C_CHECKBOX_Palette2=0,C_CHECKBOX_Palette3=0,C_CHECKBOX_Palette4=0,C_CHECKBOX_Palette5=0,C_CHECKBOX_Palette6=0,C_CHECKBOX_Palette7=0,C_CHECKBOX_Palette8=0,C_SLIDER_Brightness=10,C_SLIDER_SparkleFrequency=0</ColorPalette>
+    <ColorPalette>C_BUTTON_Palette1=#ffffff,C_BUTTON_Palette2=#ff0000,C_BUTTON_Palette3=#00ff00,C_BUTTON_Palette4=#0000ff,C_BUTTON_Palette5=#ffff00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#ff0000,C_BUTTON_Palette8=#ff0080,C_CHECKBOXBRIGHTNESSLEVEL=0,C_CHECKBOX_Chroma=0,C_CHECKBOX_MusicSparkles=0,C_CHECKBOX_Palette1=0,C_CHECKBOX_Palette2=0,C_CHECKBOX_Palette3=0,C_CHECKBOX_Palette4=0,C_CHECKBOX_Palette5=0,C_CHECKBOX_Palette6=1,C_CHECKBOX_Palette7=1,C_CHECKBOX_Palette8=1,C_SLIDER_Brightness=70,C_SLIDER_SparkleFrequency=0</ColorPalette>
+    <ColorPalette>C_BUTTON_Palette1=#ffffff,C_BUTTON_Palette2=#ff0000,C_BUTTON_Palette3=#00ff00,C_BUTTON_Palette4=#0000ff,C_BUTTON_Palette5=#ffff00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#ff0000,C_BUTTON_Palette8=#ff0080,C_CHECKBOXBRIGHTNESSLEVEL=0,C_CHECKBOX_Chroma=0,C_CHECKBOX_MusicSparkles=0,C_CHECKBOX_Palette1=0,C_CHECKBOX_Palette2=0,C_CHECKBOX_Palette3=0,C_CHECKBOX_Palette4=1,C_CHECKBOX_Palette5=0,C_CHECKBOX_Palette6=1,C_CHECKBOX_Palette7=0,C_CHECKBOX_Palette8=1,C_SLIDER_Brightness=30,C_SLIDER_SparkleFrequency=0</ColorPalette>
+    <ColorPalette>C_BUTTON_Palette1=#ffffff,C_BUTTON_Palette2=#ff0000,C_BUTTON_Palette3=#00ff00,C_BUTTON_Palette4=#0000ff,C_BUTTON_Palette5=#ffb300,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#ff0080,C_BUTTON_Palette8=#ff00ff,C_CHECKBOXBRIGHTNESSLEVEL=0,C_CHECKBOX_Chroma=0,C_CHECKBOX_MusicSparkles=0,C_CHECKBOX_Palette1=0,C_CHECKBOX_Palette2=0,C_CHECKBOX_Palette3=0,C_CHECKBOX_Palette4=0,C_CHECKBOX_Palette5=1,C_CHECKBOX_Palette6=0,C_CHECKBOX_Palette7=0,C_CHECKBOX_Palette8=0,C_SLIDER_SparkleFrequency=0</ColorPalette>
+    <ColorPalette>C_BUTTON_Palette1=#ffffff,C_BUTTON_Palette2=#ff0000,C_BUTTON_Palette3=#00ff00,C_BUTTON_Palette4=#0000ff,C_BUTTON_Palette5=#ffff00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#ff0080,C_BUTTON_Palette8=#ff00ff,C_CHECKBOXBRIGHTNESSLEVEL=0,C_CHECKBOX_Chroma=0,C_CHECKBOX_MusicSparkles=0,C_CHECKBOX_Palette1=0,C_CHECKBOX_Palette2=0,C_CHECKBOX_Palette3=0,C_CHECKBOX_Palette4=0,C_CHECKBOX_Palette5=0,C_CHECKBOX_Palette6=0,C_CHECKBOX_Palette7=0,C_CHECKBOX_Palette8=1,C_SLIDER_SparkleFrequency=0</ColorPalette>
+    <ColorPalette>C_BUTTON_Palette1=#ffffff,C_BUTTON_Palette2=#ff0000,C_BUTTON_Palette3=#00ff00,C_BUTTON_Palette4=#0000ff,C_BUTTON_Palette5=#ffff00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#ff0080,C_BUTTON_Palette8=#ff00ff,C_CHECKBOXBRIGHTNESSLEVEL=0,C_CHECKBOX_Chroma=0,C_CHECKBOX_MusicSparkles=0,C_CHECKBOX_Palette1=0,C_CHECKBOX_Palette2=0,C_CHECKBOX_Palette3=0,C_CHECKBOX_Palette4=1,C_CHECKBOX_Palette5=0,C_CHECKBOX_Palette6=0,C_CHECKBOX_Palette7=0,C_CHECKBOX_Palette8=1,C_SLIDER_SparkleFrequency=0</ColorPalette>
+    <ColorPalette>C_BUTTON_Palette1=#ffffff,C_BUTTON_Palette2=#ff0000,C_BUTTON_Palette3=#00ff00,C_BUTTON_Palette4=#0000ff,C_BUTTON_Palette5=#ffff00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#ff0080,C_BUTTON_Palette8=#ff00ff,C_CHECKBOXBRIGHTNESSLEVEL=0,C_CHECKBOX_Chroma=0,C_CHECKBOX_MusicSparkles=0,C_CHECKBOX_Palette1=0,C_CHECKBOX_Palette2=0,C_CHECKBOX_Palette3=0,C_CHECKBOX_Palette4=0,C_CHECKBOX_Palette5=0,C_CHECKBOX_Palette6=1,C_CHECKBOX_Palette7=1,C_CHECKBOX_Palette8=1,C_SLIDER_Brightness=70,C_SLIDER_SparkleFrequency=0</ColorPalette>
+    <ColorPalette>C_BUTTON_Palette1=#ffffff,C_BUTTON_Palette2=#ff0000,C_BUTTON_Palette3=#00ff00,C_BUTTON_Palette4=#0000ff,C_BUTTON_Palette5=#ffff00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#ff0080,C_BUTTON_Palette8=#ff00ff,C_CHECKBOXBRIGHTNESSLEVEL=0,C_CHECKBOX_Chroma=0,C_CHECKBOX_MusicSparkles=0,C_CHECKBOX_Palette1=0,C_CHECKBOX_Palette2=0,C_CHECKBOX_Palette3=0,C_CHECKBOX_Palette4=1,C_CHECKBOX_Palette5=0,C_CHECKBOX_Palette6=1,C_CHECKBOX_Palette7=0,C_CHECKBOX_Palette8=1,C_SLIDER_Brightness=70,C_SLIDER_SparkleFrequency=0</ColorPalette>
+    <ColorPalette>C_BUTTON_Palette1=Active=TRUE|Id=ID_BUTTON_Palette1|Values=x=0.500^c=#ffffff|,C_BUTTON_Palette2=#ff0000,C_BUTTON_Palette3=#00ff00,C_BUTTON_Palette4=#0000ff,C_BUTTON_Palette5=#ffff00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#ff0080,C_BUTTON_Palette8=#ff00ff,C_CHECKBOXBRIGHTNESSLEVEL=0,C_CHECKBOX_Chroma=0,C_CHECKBOX_MusicSparkles=0,C_CHECKBOX_Palette1=1,C_CHECKBOX_Palette2=0,C_CHECKBOX_Palette3=0,C_CHECKBOX_Palette4=0,C_CHECKBOX_Palette5=0,C_CHECKBOX_Palette6=0,C_CHECKBOX_Palette7=0,C_CHECKBOX_Palette8=0,C_SLIDER_SparkleFrequency=0</ColorPalette>
+  </ColorPalettes>
+  <EffectDB>
+    <Effect>E_CHECKBOX_INVDMX1=0,E_CHECKBOX_INVDMX2=0,E_CHECKBOX_INVDMX3=0,E_NOTEBOOK_DMX=Channels 1-16,E_SLIDER_DMX1=128,E_SLIDER_DMX2=255,E_SLIDER_DMX3=0,T_CHECKBOX_Canvas=0,T_CHECKBOX_LayerMorph=0,T_CHOICE_LayerMethod=Normal,T_SLIDER_EffectLayerMix=0</Effect>
+    <Effect>E_CHECKBOX_INVDMX1=0,E_CHECKBOX_INVDMX2=0,E_CHECKBOX_INVDMX3=0,E_NOTEBOOK_DMX=Channels 1-16,E_SLIDER_DMX1=128,E_VALUECURVE_DMX2=Active=TRUE|Id=ID_VALUECURVE_DMX2|Type=Ramp|Min=0.00|Max=255.00|P1=255.00|P2=87.00|RV=TRUE|,E_VALUECURVE_DMX3=Active=TRUE|Id=ID_VALUECURVE_DMX3|Type=Ramp|Min=0.00|Max=255.00|P2=255.00|RV=TRUE|,T_CHECKBOX_Canvas=0,T_CHECKBOX_LayerMorph=0,T_CHOICE_LayerMethod=Normal,T_SLIDER_EffectLayerMix=0</Effect>
+    <Effect>E_CHECKBOX_INVDMX1=0,E_CHECKBOX_INVDMX2=0,E_CHECKBOX_INVDMX3=0,E_NOTEBOOK_DMX=Channels 1-16,E_VALUECURVE_DMX1=Active=TRUE|Id=ID_VALUECURVE_DMX1|Type=Ramp|Min=0.00|Max=255.00|P1=128.00|P2=90.00|RV=TRUE|,E_VALUECURVE_DMX2=Active=TRUE|Id=ID_VALUECURVE_DMX2|Type=Ramp|Min=0.00|Max=255.00|P1=255.00|P2=87.00|RV=TRUE|,E_VALUECURVE_DMX3=Active=TRUE|Id=ID_VALUECURVE_DMX3|Type=Ramp|Min=0.00|Max=255.00|P2=255.00|RV=TRUE|,T_CHECKBOX_Canvas=0,T_CHECKBOX_LayerMorph=0,T_CHOICE_LayerMethod=Normal,T_SLIDER_EffectLayerMix=0</Effect>
+    <Effect>E_CHECKBOX_INVDMX1=0,E_CHECKBOX_INVDMX2=0,E_CHECKBOX_INVDMX3=0,E_NOTEBOOK_DMX=Channels 1-16,E_SLIDER_DMX1=90,E_SLIDER_DMX2=87,E_SLIDER_DMX3=0,T_CHECKBOX_Canvas=0,T_CHECKBOX_LayerMorph=0,T_CHOICE_LayerMethod=Normal,T_SLIDER_EffectLayerMix=0</Effect>
+    <Effect>E_CHECKBOX_INVDMX1=0,E_CHECKBOX_INVDMX2=0,E_CHECKBOX_INVDMX3=0,E_NOTEBOOK_DMX=Channels 1-16,E_SLIDER_DMX3=0,E_VALUECURVE_DMX1=Active=TRUE|Id=ID_VALUECURVE_DMX1|Type=Ramp|Min=0.00|Max=255.00|P1=158.00|P2=90.00|RV=TRUE|,E_VALUECURVE_DMX2=Active=TRUE|Id=ID_VALUECURVE_DMX2|Type=Ramp|Min=0.00|Max=255.00|P1=80.00|P2=50.00|RV=TRUE|,T_CHECKBOX_Canvas=0,T_CHECKBOX_LayerMorph=0,T_CHOICE_LayerMethod=Normal,T_SLIDER_EffectLayerMix=0</Effect>
+    <Effect>T_CHECKBOX_Canvas=0,T_CHECKBOX_LayerMorph=0,T_CHOICE_LayerMethod=Normal,T_SLIDER_EffectLayerMix=50</Effect>
+    <Effect>T_CHECKBOX_Canvas=0,T_CHECKBOX_LayerMorph=0,T_CHOICE_LayerMethod=Normal,T_SLIDER_EffectLayerMix=0</Effect>
+    <Effect>E_CHECKBOX_INVDMX1=0,E_CHECKBOX_INVDMX2=0,E_CHECKBOX_INVDMX3=0,E_NOTEBOOK_DMX=Channels 1-16,E_VALUECURVE_DMX1=Active=TRUE|Id=ID_VALUECURVE_DMX1|Type=Ramp|Min=0.00|Max=255.00|P1=128.00|P2=110.00|RV=TRUE|,E_VALUECURVE_DMX2=Active=TRUE|Id=ID_VALUECURVE_DMX2|Type=Ramp|Min=0.00|Max=255.00|P1=255.00|P2=87.00|RV=TRUE|,E_VALUECURVE_DMX3=Active=TRUE|Id=ID_VALUECURVE_DMX3|Type=Ramp|Min=0.00|Max=255.00|P2=255.00|RV=TRUE|,T_CHECKBOX_Canvas=0,T_CHECKBOX_LayerMorph=0,T_CHOICE_LayerMethod=Normal,T_SLIDER_EffectLayerMix=0</Effect>
+    <Effect>E_CHECKBOX_INVDMX1=0,E_CHECKBOX_INVDMX2=0,E_CHECKBOX_INVDMX3=0,E_NOTEBOOK_DMX=Channels 1-16,E_SLIDER_DMX1=110,E_SLIDER_DMX2=87,E_SLIDER_DMX3=0,T_CHECKBOX_Canvas=0,T_CHECKBOX_LayerMorph=0,T_CHOICE_LayerMethod=Normal,T_SLIDER_EffectLayerMix=0</Effect>
+    <Effect>E_CHECKBOX_INVDMX1=0,E_CHECKBOX_INVDMX2=0,E_CHECKBOX_INVDMX3=0,E_NOTEBOOK_DMX=Channels 1-16,E_SLIDER_DMX3=0,E_VALUECURVE_DMX1=Active=TRUE|Id=ID_VALUECURVE_DMX1|Type=Ramp|Min=0.00|Max=255.00|P1=148.00|P2=110.00|RV=TRUE|,E_VALUECURVE_DMX2=Active=TRUE|Id=ID_VALUECURVE_DMX2|Type=Ramp|Min=0.00|Max=255.00|P1=80.00|P2=50.00|RV=TRUE|,T_CHECKBOX_Canvas=0,T_CHECKBOX_LayerMorph=0,T_CHOICE_LayerMethod=Normal,T_SLIDER_EffectLayerMix=0</Effect>
+    <Effect>E_CHECKBOX_INVDMX1=0,E_CHECKBOX_INVDMX2=0,E_CHECKBOX_INVDMX3=0,E_NOTEBOOK_DMX=Channels 1-16,E_VALUECURVE_DMX1=Active=TRUE|Id=ID_VALUECURVE_DMX1|Type=Ramp|Min=0.00|Max=255.00|P1=128.00|P2=146.00|RV=TRUE|,E_VALUECURVE_DMX2=Active=TRUE|Id=ID_VALUECURVE_DMX2|Type=Ramp|Min=0.00|Max=255.00|P1=255.00|P2=87.00|RV=TRUE|,E_VALUECURVE_DMX3=Active=TRUE|Id=ID_VALUECURVE_DMX3|Type=Ramp|Min=0.00|Max=255.00|P2=255.00|RV=TRUE|,T_CHECKBOX_Canvas=0,T_CHECKBOX_LayerMorph=0,T_CHOICE_LayerMethod=Normal,T_SLIDER_EffectLayerMix=0</Effect>
+    <Effect>E_CHECKBOX_INVDMX1=0,E_CHECKBOX_INVDMX2=0,E_CHECKBOX_INVDMX3=0,E_NOTEBOOK_DMX=Channels 1-16,E_SLIDER_DMX1=146,E_SLIDER_DMX2=87,E_SLIDER_DMX3=0,T_CHECKBOX_Canvas=0,T_CHECKBOX_LayerMorph=0,T_CHOICE_LayerMethod=Normal,T_SLIDER_EffectLayerMix=0</Effect>
+    <Effect>E_CHECKBOX_INVDMX1=0,E_CHECKBOX_INVDMX2=0,E_CHECKBOX_INVDMX3=0,E_NOTEBOOK_DMX=Channels 1-16,E_SLIDER_DMX3=0,E_VALUECURVE_DMX1=Active=TRUE|Id=ID_VALUECURVE_DMX1|Type=Ramp|Min=0.00|Max=255.00|P1=108.00|P2=146.00|RV=TRUE|,E_VALUECURVE_DMX2=Active=TRUE|Id=ID_VALUECURVE_DMX2|Type=Ramp|Min=0.00|Max=255.00|P1=80.00|P2=50.00|RV=TRUE|,T_CHECKBOX_Canvas=0,T_CHECKBOX_LayerMorph=0,T_CHOICE_LayerMethod=Normal,T_SLIDER_EffectLayerMix=0</Effect>
+    <Effect>E_CHECKBOX_INVDMX1=0,E_CHECKBOX_INVDMX2=0,E_CHECKBOX_INVDMX3=0,E_NOTEBOOK_DMX=Channels 1-16,E_VALUECURVE_DMX1=Active=TRUE|Id=ID_VALUECURVE_DMX1|Type=Ramp|Min=0.00|Max=255.00|P1=128.00|P2=166.00|RV=TRUE|,E_VALUECURVE_DMX2=Active=TRUE|Id=ID_VALUECURVE_DMX2|Type=Ramp|Min=0.00|Max=255.00|P1=255.00|P2=87.00|RV=TRUE|,E_VALUECURVE_DMX3=Active=TRUE|Id=ID_VALUECURVE_DMX3|Type=Ramp|Min=0.00|Max=255.00|P2=255.00|RV=TRUE|,T_CHECKBOX_Canvas=0,T_CHECKBOX_LayerMorph=0,T_CHOICE_LayerMethod=Normal,T_SLIDER_EffectLayerMix=0</Effect>
+    <Effect>E_CHECKBOX_INVDMX1=0,E_CHECKBOX_INVDMX2=0,E_CHECKBOX_INVDMX3=0,E_NOTEBOOK_DMX=Channels 1-16,E_SLIDER_DMX1=166,E_SLIDER_DMX2=87,E_SLIDER_DMX3=0,T_CHECKBOX_Canvas=0,T_CHECKBOX_LayerMorph=0,T_CHOICE_LayerMethod=Normal,T_SLIDER_EffectLayerMix=0</Effect>
+    <Effect>E_CHECKBOX_INVDMX1=0,E_CHECKBOX_INVDMX2=0,E_CHECKBOX_INVDMX3=0,E_NOTEBOOK_DMX=Channels 1-16,E_SLIDER_DMX3=0,E_VALUECURVE_DMX1=Active=TRUE|Id=ID_VALUECURVE_DMX1|Type=Ramp|Min=0.00|Max=255.00|P1=98.00|P2=166.00|RV=TRUE|,E_VALUECURVE_DMX2=Active=TRUE|Id=ID_VALUECURVE_DMX2|Type=Ramp|Min=0.00|Max=255.00|P1=80.00|P2=50.00|RV=TRUE|,T_CHECKBOX_Canvas=0,T_CHECKBOX_LayerMorph=0,T_CHOICE_LayerMethod=Normal,T_SLIDER_EffectLayerMix=0</Effect>
+    <Effect>T_CHECKBOX_Canvas=0,T_CHECKBOX_LayerMorph=0,T_CHOICE_LayerMethod=Normal,T_SLIDER_EffectLayerMix=5,T_TEXTCTRL_Fadein=5.00</Effect>
+    <Effect>T_CHECKBOX_Canvas=0,T_CHECKBOX_LayerMorph=0,T_CHOICE_LayerMethod=Normal,T_SLIDER_EffectLayerMix=20,T_TEXTCTRL_Fadein=5.00</Effect>
+    <Effect>B_CHOICE_BufferStyle=Per Model Default,T_CHECKBOX_Canvas=0,T_CHECKBOX_LayerMorph=0,T_CHOICE_LayerMethod=Normal,T_SLIDER_EffectLayerMix=0</Effect>
+    <Effect>E_CHOICE_Plasma_Color=Normal,E_SLIDER_Plasma_Line_Density=1,E_SLIDER_Plasma_Speed=10,E_SLIDER_Plasma_Style=1,T_CHECKBOX_Canvas=0,T_CHECKBOX_LayerMorph=0,T_CHOICE_LayerMethod=Normal,T_SLIDER_EffectLayerMix=0</Effect>
+    <Effect>B_CHOICE_BufferStyle=Per Model Default,E_CHECKBOX_Shockwave_Blend_Edges=1,E_CHECKBOX_Shockwave_Scale=1,E_CHOICE_Shockwave_TimingTrack=,E_NOTEBOOK_Shockwave=Position,E_SLIDER_Shockwave_Accel=0,E_SLIDER_Shockwave_CenterX=100,E_SLIDER_Shockwave_CenterY=50,E_SLIDER_Shockwave_Cycles=1,E_SLIDER_Shockwave_End_Radius=361,E_SLIDER_Shockwave_End_Width=74,E_SLIDER_Shockwave_Start_Radius=1,E_SLIDER_Shockwave_Start_Width=47,T_CHECKBOX_Canvas=0,T_CHECKBOX_LayerMorph=0,T_CHOICE_LayerMethod=Normal,T_SLIDER_EffectLayerMix=0</Effect>
+    <Effect>E_CHECKBOX_Twinkle_ReRandom=0,E_CHECKBOX_Twinkle_Strobe=0,E_CHOICE_Twinkle_Style=Old Render Method,E_SLIDER_Twinkle_Count=2,E_SLIDER_Twinkle_Steps=199,T_CHECKBOX_Canvas=0,T_CHECKBOX_LayerMorph=0,T_CHOICE_LayerMethod=Normal,T_SLIDER_EffectLayerMix=0,T_TEXTCTRL_Fadein=3,T_TEXTCTRL_Fadeout=1</Effect>
+    <Effect>E_CHECKBOX_Meteors_UseMusic=0,E_CHOICE_Meteors_Effect=Up,E_CHOICE_Meteors_Type=Palette,E_SLIDER_Meteors_Count=3,E_SLIDER_Meteors_Length=38,E_SLIDER_Meteors_Speed=14,E_SLIDER_Meteors_Swirl_Intensity=0,E_SLIDER_Meteors_WamupFrames=0,T_CHECKBOX_Canvas=0,T_CHECKBOX_LayerMorph=0,T_CHOICE_LayerMethod=Normal,T_SLIDER_EffectLayerMix=0</Effect>
+  </EffectDB>
+  <SequenceMedia />
+  <DataLayers>
+    <DataLayer lor_params="0" channel_offset="0" num_channels="0" num_frames="0" data="&lt;rendered: erase-mode>" source="&lt;auto-generated>" name="Nutcracker" />
+  </DataLayers>
+  <DisplayElements>
+    <Element collapsed="false" type="timing" name="New Timing" visible="true" views=",Master View" active="true" />
+    <Element collapsed="false" type="model" name="All" visible="true" />
+    <Element collapsed="false" type="model" name="Beams" visible="true" />
+    <Element collapsed="false" type="model" name="Diagonal Bar 1" visible="true" />
+    <Element collapsed="false" type="model" name="Diagonal Bar 2" visible="true" />
+    <Element collapsed="false" type="model" name="Diagonal Bar 3" visible="true" />
+    <Element collapsed="false" type="model" name="Diagonal Bar 4" visible="true" />
+    <Element collapsed="false" type="model" name="Diagonal Bars" visible="true" />
+    <Element collapsed="false" type="model" name="Floor Post 1" visible="true" />
+    <Element collapsed="false" type="model" name="Floor Post 2" visible="true" />
+    <Element collapsed="false" type="model" name="Floor Post 3" visible="true" />
+    <Element collapsed="false" type="model" name="Floor Post 4" visible="true" />
+    <Element collapsed="false" type="model" name="Floor Post 5" visible="true" />
+    <Element collapsed="false" type="model" name="Floor Post 6" visible="true" />
+    <Element collapsed="false" type="model" name="Floor Posts" visible="true" />
+    <Element collapsed="false" type="model" name="Laser Wall" visible="true" />
+    <Element collapsed="false" type="model" name="Mover 1" visible="true" />
+    <Element collapsed="false" type="model" name="Mover 2" visible="true" />
+    <Element collapsed="false" type="model" name="Mover 3" visible="true" />
+    <Element collapsed="false" type="model" name="Mover 4" visible="true" />
+    <Element collapsed="false" type="model" name="Movers" visible="true" />
+    <Element collapsed="false" type="model" name="Stage Floor Outline" visible="true" />
+    <Element collapsed="false" type="model" name="Stage Floor Outline 1" visible="true" />
+    <Element collapsed="false" type="model" name="Stage Floor Outline 2" visible="true" />
+    <Element collapsed="false" type="model" name="Stage Floor Outline 3" visible="true" />
+    <Element collapsed="false" type="model" name="Vertical Truss Strip 1" visible="true" />
+    <Element collapsed="false" type="model" name="Vertical Truss Strip 2" visible="true" />
+    <Element collapsed="false" type="model" name="Vertical Truss Strip 3" visible="true" />
+    <Element collapsed="false" type="model" name="Vertical Truss Strip 4" visible="true" />
+    <Element collapsed="false" type="model" name="Vertical Truss Strips" visible="true" />
+    <Element collapsed="false" type="model" name="Video Wall" visible="true" />
+    <Element collapsed="false" type="model" name="Warm Spot Left" visible="true" />
+    <Element collapsed="false" type="model" name="Warm Spot Right" visible="true" />
+    <Element collapsed="false" type="model" name="Warm Spots" visible="true" />
+  </DisplayElements>
+  <ElementEffects>
+    <Element type="timing" name="New Timing">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="All">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="Beams">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="Diagonal Bar 1">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="Diagonal Bar 2">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="Diagonal Bar 3">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="Diagonal Bar 4">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="Diagonal Bars">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="Floor Post 1">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="Floor Post 2">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="Floor Post 3">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="Floor Post 4">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="Floor Post 5">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="Floor Post 6">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="Floor Posts">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="Laser Wall">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="Mover 1">
+      <EffectLayer />
+      <EffectLayer>
+        <Effect ref="0" name="DMX" startTime="0" endTime="5650" palette="0" />
+        <Effect ref="1" name="DMX" id="1" startTime="5650" endTime="8060" palette="0" />
+        <Effect ref="0" name="DMX" id="2" startTime="32170" endTime="34060" palette="0" />
+        <Effect ref="2" name="DMX" id="3" startTime="34060" endTime="38540" palette="0" />
+        <Effect ref="3" name="DMX" id="4" startTime="38540" endTime="38720" palette="0" />
+        <Effect ref="4" name="DMX" id="5" startTime="38720" endTime="46220" palette="0" />
+        <Effect ref="4" name="DMX" id="6" startTime="46220" endTime="53720" palette="0" />
+      </EffectLayer>
+      <SubModelEffectLayer name="Dimmer">
+        <Effect ref="5" name="Off" startTime="34020" endTime="37580" palette="0" />
+        <Effect ref="6" name="Off" id="1" startTime="37820" endTime="37930" palette="0" />
+        <Effect ref="6" name="Off" id="2" startTime="38180" endTime="38290" palette="0" />
+        <Effect ref="6" name="On" id="3" startTime="39260" endTime="42370" palette="1" />
+        <Effect ref="6" name="On" id="4" startTime="43080" endTime="46170" palette="1" />
+        <Effect ref="6" name="On" id="5" startTime="46870" endTime="49980" palette="1" />
+        <Effect ref="6" name="On" id="6" startTime="50690" endTime="53780" palette="1" />
+      </SubModelEffectLayer>
+    </Element>
+    <Element type="model" name="Mover 2">
+      <EffectLayer />
+      <EffectLayer>
+        <Effect ref="0" name="DMX" startTime="0" endTime="5650" palette="0" />
+        <Effect ref="1" name="DMX" id="1" startTime="5650" endTime="8060" palette="0" />
+        <Effect ref="0" name="DMX" id="2" startTime="32170" endTime="34060" palette="0" />
+        <Effect ref="7" name="DMX" id="3" startTime="34060" endTime="38540" palette="0" />
+        <Effect ref="8" name="DMX" id="4" startTime="38540" endTime="38720" palette="0" />
+        <Effect ref="9" name="DMX" id="5" startTime="38720" endTime="46220" palette="0" />
+        <Effect ref="9" name="DMX" id="6" startTime="46220" endTime="53720" palette="0" />
+      </EffectLayer>
+      <SubModelEffectLayer name="Dimmer">
+        <Effect ref="5" name="Off" startTime="34020" endTime="37580" palette="0" />
+        <Effect ref="6" name="Off" id="1" startTime="37820" endTime="37930" palette="0" />
+        <Effect ref="6" name="Off" id="2" startTime="38180" endTime="38290" palette="0" />
+        <Effect ref="6" name="On" id="3" startTime="39260" endTime="42370" palette="1" />
+        <Effect ref="6" name="On" id="4" startTime="43080" endTime="46170" palette="1" />
+        <Effect ref="6" name="On" id="5" startTime="46870" endTime="49980" palette="1" />
+        <Effect ref="6" name="On" id="6" startTime="50690" endTime="53780" palette="1" />
+      </SubModelEffectLayer>
+    </Element>
+    <Element type="model" name="Mover 3">
+      <EffectLayer />
+      <EffectLayer>
+        <Effect ref="0" name="DMX" startTime="0" endTime="5650" palette="0" />
+        <Effect ref="1" name="DMX" id="1" startTime="5650" endTime="8060" palette="0" />
+        <Effect ref="0" name="DMX" id="2" startTime="32170" endTime="34060" palette="0" />
+        <Effect ref="10" name="DMX" id="3" startTime="34060" endTime="38540" palette="0" />
+        <Effect ref="11" name="DMX" id="4" startTime="38540" endTime="38720" palette="0" />
+        <Effect ref="12" name="DMX" id="5" startTime="38720" endTime="46220" palette="0" />
+        <Effect ref="12" name="DMX" id="6" startTime="46220" endTime="53720" palette="0" />
+      </EffectLayer>
+      <SubModelEffectLayer name="Dimmer">
+        <Effect ref="5" name="Off" startTime="34020" endTime="37580" palette="0" />
+        <Effect ref="6" name="Off" id="1" startTime="37820" endTime="37930" palette="0" />
+        <Effect ref="6" name="Off" id="2" startTime="38180" endTime="38290" palette="0" />
+        <Effect ref="6" name="On" id="3" startTime="39260" endTime="42370" palette="1" />
+        <Effect ref="6" name="On" id="4" startTime="43080" endTime="46170" palette="1" />
+        <Effect ref="6" name="On" id="5" startTime="46870" endTime="49980" palette="1" />
+        <Effect ref="6" name="On" id="6" startTime="50690" endTime="53780" palette="1" />
+      </SubModelEffectLayer>
+    </Element>
+    <Element type="model" name="Mover 4">
+      <EffectLayer />
+      <EffectLayer>
+        <Effect ref="0" name="DMX" startTime="0" endTime="5650" palette="0" />
+        <Effect ref="1" name="DMX" id="1" startTime="5650" endTime="8060" palette="0" />
+        <Effect ref="0" name="DMX" id="2" startTime="32170" endTime="34060" palette="0" />
+        <Effect ref="13" name="DMX" id="3" startTime="34060" endTime="38540" palette="0" />
+        <Effect ref="14" name="DMX" id="4" startTime="38540" endTime="38720" palette="0" />
+        <Effect ref="15" name="DMX" id="5" startTime="38720" endTime="46220" palette="0" />
+        <Effect ref="15" name="DMX" id="6" startTime="46220" endTime="53720" palette="0" />
+      </EffectLayer>
+      <SubModelEffectLayer name="Dimmer">
+        <Effect ref="5" name="Off" startTime="34020" endTime="37580" palette="0" />
+        <Effect ref="6" name="Off" id="1" startTime="37820" endTime="37930" palette="0" />
+        <Effect ref="6" name="Off" id="2" startTime="38180" endTime="38290" palette="0" />
+        <Effect ref="6" name="On" id="3" startTime="39260" endTime="42370" palette="1" />
+        <Effect ref="6" name="On" id="4" startTime="43080" endTime="46170" palette="1" />
+        <Effect ref="6" name="On" id="5" startTime="46870" endTime="49980" palette="1" />
+        <Effect ref="6" name="On" id="6" startTime="50690" endTime="53780" palette="1" />
+      </SubModelEffectLayer>
+    </Element>
+    <Element type="model" name="Movers">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="Stage Floor Outline">
+      <EffectLayer>
+        <Effect ref="16" name="Off" startTime="8250" endTime="15650" palette="2" />
+        <Effect ref="17" name="Off" id="1" startTime="15650" endTime="23300" palette="2" />
+        <Effect ref="16" name="Off" id="2" startTime="23490" endTime="30890" palette="2" />
+        <Effect ref="17" name="Off" id="3" startTime="30890" endTime="38540" palette="2" />
+        <Effect ref="18" name="On" id="4" startTime="38540" endTime="38910" palette="3" />
+        <Effect ref="18" name="On" id="5" startTime="39260" endTime="39610" palette="4" />
+        <Effect ref="18" name="On" selected="1" id="6" startTime="42380" endTime="42750" palette="3" />
+      </EffectLayer>
+      <EffectLayer>
+        <Effect ref="19" name="Plasma" startTime="8060" endTime="15650" palette="5" />
+        <Effect ref="19" name="Plasma" id="1" startTime="15650" endTime="23300" palette="6" />
+        <Effect ref="19" name="Plasma" id="2" startTime="23300" endTime="30890" palette="5" />
+        <Effect ref="19" name="Plasma" id="3" startTime="30890" endTime="38540" palette="6" />
+        <Effect ref="18" name="On" id="4" startTime="38910" endTime="39260" palette="7" />
+        <Effect ref="18" name="On" id="5" startTime="42750" endTime="43100" palette="7" />
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Stage Floor Outline 1">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="Stage Floor Outline 2">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="Stage Floor Outline 3">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="Vertical Truss Strip 1">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="Vertical Truss Strip 2">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="Vertical Truss Strip 3">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="Vertical Truss Strip 4">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="Vertical Truss Strips">
+      <EffectLayer />
+      <EffectLayer>
+        <Effect ref="20" name="Shockwave" startTime="38910" endTime="39470" palette="7" />
+        <Effect ref="20" name="Shockwave" id="1" startTime="42750" endTime="43310" palette="7" />
+      </EffectLayer>
+      <EffectLayer>
+        <Effect ref="20" name="Shockwave" startTime="38540" endTime="39100" palette="8" />
+        <Effect ref="20" name="Shockwave" id="1" startTime="42380" endTime="42940" palette="8" />
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Video Wall">
+      <EffectLayer>
+        <Effect ref="21" name="Twinkle" startTime="0" endTime="7730" palette="9" />
+        <Effect ref="19" name="Plasma" id="1" startTime="8060" endTime="15650" palette="10" />
+        <Effect ref="19" name="Plasma" id="2" startTime="15650" endTime="23300" palette="11" />
+        <Effect ref="19" name="Plasma" id="3" startTime="23300" endTime="30890" palette="10" />
+        <Effect ref="19" name="Plasma" id="4" startTime="30890" endTime="38540" palette="11" />
+        <Effect ref="22" name="Meteors" id="5" startTime="39310" endTime="53700" palette="12" />
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Warm Spot Left">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="Warm Spot Right">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="Warm Spots">
+      <EffectLayer />
+    </Element>
+  </ElementEffects>
+  <lastView>0</lastView>
+  <TimingTags>
+    <Tag number="0" position="-1" />
+    <Tag number="1" position="-1" />
+    <Tag number="2" position="-1" />
+    <Tag number="3" position="-1" />
+    <Tag number="4" position="-1" />
+    <Tag number="5" position="-1" />
+    <Tag number="6" position="-1" />
+    <Tag number="7" position="-1" />
+    <Tag number="8" position="-1" />
+    <Tag number="9" position="-1" />
+  </TimingTags>
+</xsequence>

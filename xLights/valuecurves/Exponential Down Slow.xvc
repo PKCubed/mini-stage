@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<valuecurve 
+data="Active=TRUE|Id=ID_VALUECURVE_XVC|Type=Exponential Up|Min=0.00|Max=100.00|P1=40.00|P2=100.00|SE=Y|P3=50.00|P4=150.00|RV=TRUE|" SourceVersion="2026.15"  >
+</valuecurve>
