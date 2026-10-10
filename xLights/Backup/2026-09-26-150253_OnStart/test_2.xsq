@@ -1,0 +1,171 @@
+<?xml version="1.0"?>
+<xsequence BaseChannel="0" ChanCtrlBasic="0" ChanCtrlColor="0" FixedPointTiming="1" ModelBlending="true">
+  <head>
+    <version>2026.15</version>
+    <author></author>
+    <author-email></author-email>
+    <author-website></author-website>
+    <song></song>
+    <artist></artist>
+    <album></album>
+    <MusicURL></MusicURL>
+    <comment></comment>
+    <sequenceTiming>10 ms</sequenceTiming>
+    <sequenceType>Animation</sequenceType>
+    <mediaFile></mediaFile>
+    <sequenceDuration>30.000</sequenceDuration>
+    <imageDir></imageDir>
+  </head>
+  <ColorPalettes>
+    <ColorPalette>C_BUTTON_Palette1=#ffffff,C_BUTTON_Palette2=#ff4000,C_BUTTON_Palette3=#00ff00,C_BUTTON_Palette4=#0000ff,C_BUTTON_Palette5=#ffff00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00ffff,C_BUTTON_Palette8=#ff00ff,C_CHECKBOXBRIGHTNESSLEVEL=0,C_CHECKBOX_Chroma=0,C_CHECKBOX_MusicSparkles=0,C_CHECKBOX_Palette1=0,C_CHECKBOX_Palette2=1,C_CHECKBOX_Palette3=0,C_CHECKBOX_Palette4=0,C_CHECKBOX_Palette5=0,C_CHECKBOX_Palette6=0,C_CHECKBOX_Palette7=0,C_CHECKBOX_Palette8=0,C_SLIDER_SparkleFrequency=0</ColorPalette>
+  </ColorPalettes>
+  <EffectDB>
+    <Effect>E_CHECKBOX_INVDMX1=0,E_CHECKBOX_INVDMX10=0,E_CHECKBOX_INVDMX11=0,E_CHECKBOX_INVDMX12=0,E_CHECKBOX_INVDMX13=0,E_CHECKBOX_INVDMX14=0,E_CHECKBOX_INVDMX15=0,E_CHECKBOX_INVDMX16=0,E_CHECKBOX_INVDMX17=0,E_CHECKBOX_INVDMX18=0,E_CHECKBOX_INVDMX19=0,E_CHECKBOX_INVDMX2=0,E_CHECKBOX_INVDMX20=0,E_CHECKBOX_INVDMX21=0,E_CHECKBOX_INVDMX22=0,E_CHECKBOX_INVDMX23=0,E_CHECKBOX_INVDMX24=0,E_CHECKBOX_INVDMX25=0,E_CHECKBOX_INVDMX26=0,E_CHECKBOX_INVDMX27=0,E_CHECKBOX_INVDMX28=0,E_CHECKBOX_INVDMX29=0,E_CHECKBOX_INVDMX3=0,E_CHECKBOX_INVDMX30=0,E_CHECKBOX_INVDMX31=0,E_CHECKBOX_INVDMX32=0,E_CHECKBOX_INVDMX33=0,E_CHECKBOX_INVDMX34=0,E_CHECKBOX_INVDMX35=0,E_CHECKBOX_INVDMX36=0,E_CHECKBOX_INVDMX37=0,E_CHECKBOX_INVDMX38=0,E_CHECKBOX_INVDMX39=0,E_CHECKBOX_INVDMX4=0,E_CHECKBOX_INVDMX40=0,E_CHECKBOX_INVDMX41=0,E_CHECKBOX_INVDMX42=0,E_CHECKBOX_INVDMX43=0,E_CHECKBOX_INVDMX44=0,E_CHECKBOX_INVDMX45=0,E_CHECKBOX_INVDMX46=0,E_CHECKBOX_INVDMX47=0,E_CHECKBOX_INVDMX48=0,E_CHECKBOX_INVDMX5=0,E_CHECKBOX_INVDMX6=0,E_CHECKBOX_INVDMX7=0,E_CHECKBOX_INVDMX8=0,E_CHECKBOX_INVDMX9=0,E_NOTEBOOK_DMX=Channels 1-16,E_SLIDER_DMX1=132,E_SLIDER_DMX10=0,E_SLIDER_DMX11=0,E_SLIDER_DMX12=0,E_SLIDER_DMX13=0,E_SLIDER_DMX14=0,E_SLIDER_DMX15=0,E_SLIDER_DMX16=0,E_SLIDER_DMX17=0,E_SLIDER_DMX18=0,E_SLIDER_DMX19=0,E_SLIDER_DMX20=0,E_SLIDER_DMX21=0,E_SLIDER_DMX22=0,E_SLIDER_DMX23=0,E_SLIDER_DMX24=0,E_SLIDER_DMX25=0,E_SLIDER_DMX26=0,E_SLIDER_DMX27=0,E_SLIDER_DMX28=0,E_SLIDER_DMX29=0,E_SLIDER_DMX3=54,E_SLIDER_DMX30=0,E_SLIDER_DMX31=0,E_SLIDER_DMX32=0,E_SLIDER_DMX33=0,E_SLIDER_DMX34=0,E_SLIDER_DMX35=0,E_SLIDER_DMX36=0,E_SLIDER_DMX37=0,E_SLIDER_DMX38=0,E_SLIDER_DMX39=0,E_SLIDER_DMX4=0,E_SLIDER_DMX40=0,E_SLIDER_DMX41=0,E_SLIDER_DMX42=0,E_SLIDER_DMX43=0,E_SLIDER_DMX44=0,E_SLIDER_DMX45=0,E_SLIDER_DMX46=0,E_SLIDER_DMX47=0,E_SLIDER_DMX48=0,E_SLIDER_DMX5=0,E_SLIDER_DMX6=0,E_SLIDER_DMX7=0,E_SLIDER_DMX8=0,E_SLIDER_DMX9=0,E_VALUECURVE_DMX2=Active=TRUE|Id=ID_VALUECURVE_DMX2|Type=Sine|Min=0.00|Max=255.00|P1=75.00|P2=255.00|P3=10.00|P4=127.50|RV=TRUE|,T_CHECKBOX_Canvas=0,T_CHECKBOX_LayerMorph=0,T_CHOICE_LayerMethod=Normal,T_SLIDER_EffectLayerMix=0</Effect>
+    <Effect>E_0FILEPICKERCTRL_IFS=C:\Users\peter\Documents\GitHub\mini-stage\xLights\Shaders\Audio - PlasmaLike.fs,E_CHOICE_SHADERXYZZY_colorMode=Shader Default                  ,E_CHOICE_SHADERXYZZY_mode=One                             ,E_SLIDER_SHADERXYZZY_borderWidth=30,E_SLIDER_SHADERXYZZY_scale=100,E_SLIDER_Shader_Speed=100,E_TEXTCTRL_Shader_LeadIn=0,E_TEXTCTRL_Shader_Offset_X=0,E_TEXTCTRL_Shader_Offset_Y=0,E_TEXTCTRL_Shader_Zoom=-27,T_CHECKBOX_Canvas=1,T_CHECKBOX_LayerMorph=0,T_CHOICE_LayerMethod=Normal,T_SLIDER_EffectLayerMix=0</Effect>
+  </EffectDB>
+  <SequenceMedia />
+  <DataLayers>
+    <DataLayer lor_params="0" channel_offset="0" num_channels="0" num_frames="0" data="&lt;rendered: erase-mode>" source="&lt;auto-generated>" name="Nutcracker" />
+  </DataLayers>
+  <DisplayElements>
+    <Element collapsed="false" type="timing" name="New Timing" visible="true" views=",Master View" active="true" />
+    <Element collapsed="false" type="model" name="All" visible="true" />
+    <Element collapsed="false" type="model" name="Beams" visible="true" />
+    <Element collapsed="false" type="model" name="Diagonal Bar 1" visible="true" />
+    <Element collapsed="false" type="model" name="Diagonal Bar 2" visible="true" />
+    <Element collapsed="false" type="model" name="Diagonal Bar 3" visible="true" />
+    <Element collapsed="false" type="model" name="Diagonal Bar 4" visible="true" />
+    <Element collapsed="false" type="model" name="Diagonal Bars" visible="true" />
+    <Element collapsed="false" type="model" name="DmxMovingHeadAdv" visible="true" />
+    <Element collapsed="false" type="model" name="Floor Post 1" visible="true" />
+    <Element collapsed="false" type="model" name="Floor Post 2" visible="true" />
+    <Element collapsed="false" type="model" name="Floor Post 3" visible="true" />
+    <Element collapsed="false" type="model" name="Floor Post 4" visible="true" />
+    <Element collapsed="false" type="model" name="Floor Post 5" visible="true" />
+    <Element collapsed="false" type="model" name="Floor Post 6" visible="true" />
+    <Element collapsed="false" type="model" name="Floor Posts" visible="true" />
+    <Element collapsed="false" type="model" name="Laser Wall" visible="true" />
+    <Element collapsed="false" type="model" name="Stage Floor Outline" visible="true" />
+    <Element collapsed="false" type="model" name="Stage Floor Outline 1" visible="true" />
+    <Element collapsed="false" type="model" name="Stage Floor Outline 2" visible="true" />
+    <Element collapsed="false" type="model" name="Stage Floor Outline 3" visible="true" />
+    <Element collapsed="false" type="model" name="Vertical Truss Strip 1" visible="true" />
+    <Element collapsed="false" type="model" name="Vertical Truss Strip 2" visible="true" />
+    <Element collapsed="false" type="model" name="Vertical Truss Strip 3" visible="true" />
+    <Element collapsed="false" type="model" name="Vertical Truss Strip 4" visible="true" />
+    <Element collapsed="false" type="model" name="Vertical Truss Strips" visible="true" />
+    <Element collapsed="false" type="model" name="Video Wall" visible="true" />
+    <Element collapsed="false" type="model" name="Warm Spot Left" visible="true" />
+    <Element collapsed="false" type="model" name="Warm Spot Right" visible="true" />
+    <Element collapsed="false" type="model" name="Warm Spots" visible="true" />
+  </DisplayElements>
+  <ElementEffects>
+    <Element type="timing" name="New Timing">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="All">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="Beams">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="Diagonal Bar 1">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="Diagonal Bar 2">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="Diagonal Bar 3">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="Diagonal Bar 4">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="Diagonal Bars">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="DmxMovingHeadAdv">
+      <EffectLayer>
+        <Effect ref="0" name="DMX" selected="1" startTime="960" endTime="10200" palette="0" />
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Floor Post 1">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="Floor Post 2">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="Floor Post 3">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="Floor Post 4">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="Floor Post 5">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="Floor Post 6">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="Floor Posts">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="Laser Wall">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="Stage Floor Outline">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="Stage Floor Outline 1">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="Stage Floor Outline 2">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="Stage Floor Outline 3">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="Vertical Truss Strip 1">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="Vertical Truss Strip 2">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="Vertical Truss Strip 3">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="Vertical Truss Strip 4">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="Vertical Truss Strips">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="Video Wall">
+      <EffectLayer>
+        <Effect ref="1" name="Shader" startTime="0" endTime="29850" palette="0" />
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Warm Spot Left">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="Warm Spot Right">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="Warm Spots">
+      <EffectLayer />
+    </Element>
+  </ElementEffects>
+  <lastView>0</lastView>
+  <TimingTags>
+    <Tag number="0" position="-1" />
+    <Tag number="1" position="-1" />
+    <Tag number="2" position="-1" />
+    <Tag number="3" position="-1" />
+    <Tag number="4" position="-1" />
+    <Tag number="5" position="-1" />
+    <Tag number="6" position="-1" />
+    <Tag number="7" position="-1" />
+    <Tag number="8" position="-1" />
+    <Tag number="9" position="-1" />
+  </TimingTags>
+</xsequence>
